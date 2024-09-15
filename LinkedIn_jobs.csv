@@ -1,0 +1,1787 @@
+,content,level,job_function,industries,employment,Position,Company,Location
+0,"Genesis is building a world-class ML team in an industry that has underutilized computational methods for too long. We are creating the best molecular generation and property prediction platform in the world, filling in a critical piece in the drug discovery process. We need you to drive the cutting-edge research that will enable us to find cures for a wider range of diseases, faster than ever before.
+
+You will
+
+
+Drive speed and accuracy improvements in our ML platform, coming up with architecture modifications for 2D and 3D graph neural networks, and rapidly implementing and testing them in pytorch
+Keep up with deep learning research, especially pertaining to graph neural nets and graph generative models, and quickly prototype ideas gleaned from the literature
+Dive deep into molecular datasets, creating statistically rigorous train, valid, and test sets to optimally train our models for real-world prediction and generation tasks
+Develop creative featurizations of 2D and 3D molecular structures that are inspired by laws of physics and chemistry, enabling our networks to take better advantage of available data
+Work closely with software engineers and medicinal chemists to make our ML platform maximally adaptive to different use cases
+
+
+
+
+You are
+
+
+A strong software engineer who will write code quickly and uphold our code quality standards
+Comfortable with linear algebra and statistics
+Experienced applying traditional ML techniques and/or deep learning to real-world problems
+A deep thinker who reasons from first principles over pattern matching
+Interested in learning about machine learning, biochemistry, and the drug development process
+
+
+
+
+What We Offer
+
+The opportunity to work on challenging, high impact ML research that is immediately deployed to accelerate the discovery of new medicines
+Strong technical coworkers in AI, software, and chemistry, who all have a powerful mix of intellectual curiosity and humility. The team reads and discusses 1-2 ML or chemistry papers every week to stay on top of the field and inspire new ideas
+Competitive salary and equity. Medical, dental, and vision insurance, and a 401(k) program
+
+
+
+
+Genesis Therapeutics is unifying AI and biotech to discover novel and breakthrough treatments for patients with severe and devastating conditions. Genesis was founded on groundbreaking molecular ML research and since has established itself as the industry leader in AI for small molecule drug discovery. Our team of accomplished biotech leaders and expert drug hunters joins forces with deep learning researchers and software engineers who are pioneering predictive and generative AI technologies for molecules.
+
+Our team has created the industry's most advanced molecular AI platform called GEMS (Genesis Exploration of Molecular Space), to accelerate and optimize small molecule drug discovery and to enable the discovery of novel first-in-class and best-in-class small molecule drugs for challenging and/or undruggable targets.
+
+The company has leveraged GEMS to build an internal pipeline with multiple programs against high-value targets, including data-poor and canonically undruggable targets where GEMS is uniquely advantaged. In addition, Genesis has two AI platform collaborations across a range of therapeutic areas: Eli Lilly (signed in 2022, with a $20M upfront payment and a $670M total deal size), and Genentech (signed in 2020).
+
+We raised a $200M series B in August 2023, and have raised over $280M in funding from top technology and biotech investors, including Andreessen Horowitz, Rock Springs Capital, T. Rowe Price, Fidelity, Radical Ventures, NVentures (NVIDIA's VC arm), BlackRock, and Menlo Ventures.
+
+Genesis is headquartered in Burlingame, CA, with a fully integrated laboratory in San Diego. We are proud to be an inclusive workplace and an Equal Opportunity Employer.
+
+Finding the best talent is our top priority at Genesis Therapeutics. If you are interested in potential partnership on recruitment, please reach out to recruiting@genesistherapeutics.ai.",Not Applicable,Engineering and Information Technology,"Transportation, Logistics, Supply Chain and Storage",Full-time,ML Research Engineer (New Grad),Genesis Therapeutics,"New York, NY"
+1,"Genesis is building a world-class ML team in an industry that has underutilized computational methods for too long. We are creating the best molecular generation and property prediction platform in the world, filling in a critical piece in the drug discovery process. We need you to drive the cutting-edge research that will enable us to find cures for a wider range of diseases, faster than ever before.
+
+You will
+
+
+Drive speed and accuracy improvements in our ML platform, coming up with architecture modifications for 2D and 3D graph neural networks, and rapidly implementing and testing them in pytorch
+Keep up with deep learning research, especially pertaining to graph neural nets and graph generative models, and quickly prototype ideas gleaned from the literature
+Dive deep into molecular datasets, creating statistically rigorous train, valid, and test sets to optimally train our models for real-world prediction and generation tasks
+Develop creative featurizations of 2D and 3D molecular structures that are inspired by laws of physics and chemistry, enabling our networks to take better advantage of available data
+Work closely with software engineers and medicinal chemists to make our ML platform maximally adaptive to different use cases
+
+
+
+
+You are
+
+
+A strong software engineer who will write code quickly and uphold our code quality standards
+Comfortable with linear algebra and statistics
+Experienced applying traditional ML techniques and/or deep learning to real-world problems
+A deep thinker who reasons from first principles over pattern matching
+Interested in learning about machine learning, biochemistry, and the drug development process
+
+
+
+
+What We Offer
+
+The opportunity to work on challenging, high impact ML research that is immediately deployed to accelerate the discovery of new medicines
+Strong technical coworkers in AI, software, and chemistry, who all have a powerful mix of intellectual curiosity and humility. The team reads and discusses 1-2 ML or chemistry papers every week to stay on top of the field and inspire new ideas
+Competitive salary and equity. Medical, dental, and vision insurance, and a 401(k) program
+
+
+
+
+Genesis Therapeutics is unifying AI and biotech to discover novel and breakthrough treatments for patients with severe and devastating conditions. Genesis was founded on groundbreaking molecular ML research and since has established itself as the industry leader in AI for small molecule drug discovery. Our team of accomplished biotech leaders and expert drug hunters joins forces with deep learning researchers and software engineers who are pioneering predictive and generative AI technologies for molecules.
+
+Our team has created the industry's most advanced molecular AI platform called GEMS (Genesis Exploration of Molecular Space), to accelerate and optimize small molecule drug discovery and to enable the discovery of novel first-in-class and best-in-class small molecule drugs for challenging and/or undruggable targets.
+
+The company has leveraged GEMS to build an internal pipeline with multiple programs against high-value targets, including data-poor and canonically undruggable targets where GEMS is uniquely advantaged. In addition, Genesis has two AI platform collaborations across a range of therapeutic areas: Eli Lilly (signed in 2022, with a $20M upfront payment and a $670M total deal size), and Genentech (signed in 2020).
+
+We raised a $200M series B in August 2023, and have raised over $280M in funding from top technology and biotech investors, including Andreessen Horowitz, Rock Springs Capital, T. Rowe Price, Fidelity, Radical Ventures, NVentures (NVIDIA's VC arm), BlackRock, and Menlo Ventures.
+
+Genesis is headquartered in Burlingame, CA, with a fully integrated laboratory in San Diego. We are proud to be an inclusive workplace and an Equal Opportunity Employer.
+
+Finding the best talent is our top priority at Genesis Therapeutics. If you are interested in potential partnership on recruitment, please reach out to recruiting@genesistherapeutics.ai.",Not Applicable,Engineering and Information Technology,"Transportation, Logistics, Supply Chain and Storage",Full-time,ML Research Engineer (New Grad),Genesis Therapeutics,"Burlingame, CA"
+2,"Jaan Health’s team is growing! We’re looking for an innovative Machine Learning Engineer passionate about using ML, NLP, LLMs, and Generative AI to help us transform healthcare by powering proactive care at population scale.
+
+Who We Are:
+Jaan Health is a rapidly growing software company focused on leveraging accessible technology and artificial intelligence (AI) to drive better healthcare outcomes for patients while addressing the increasing cost and profitability challenges facing the healthcare industry. Our SaaS platform, Phamily, provides healthcare systems and physicians with an AI-powered virtual care platform that enables them to efficiently and easily manage the chronic conditions and general healthcare needs of their patients between office visits, while also increasing their own reimbursement and financial sustainability in the process. Phamily helps transform healthcare from reactive episodic treatment to proactive care management.
+
+We've helped more than a hundred thousand patients since our founding. We need your help to serve even more patients and revolutionize healthcare delivery!
+
+What You’ll Be Doing:
+We are looking for an entrepreneurial Machine Learning Engineer to join our lean, mean, innovative team of people on a mission to build the best AI-driven smart care management platform on the planet.
+
+Who You Are:
+Passionate about building AI-driven products that make a difference
+Takes ownership and thrives in startups or small entrepreneurial teams
+Loves taking ideas from R&D rapid prototypes to production at scale
+Self-motivated quick learner and analytical problem solver
+High-signal communicator who asks good questions
+Bonus: Experience with healthcare and clinical data
+
+What Skills You’ll Need:
+Strong background in Machine Learning, Deep Learning, NLP, LLMs, and Transformers
+Experience with machine learning frameworks and tools (e.g., TensorFlow, PyTorch, Hugging Face, Vertex AI)
+Strong programming skills in Python and data processing libraries (e.g., Pandas, NumPy)
+Proficiency in data preprocessing, cleaning, and labeling to ensure high-quality datasets
+Expertise in model evaluation techniques, accuracy metrics, hyperparameters and fine-tuning
+2+ years of industry experience building, deploying, and scaling ML models and big data projects in production environments
+Effective collaborator within cross-functional teams and with stakeholders
+Master's degree in Computer Science, Machine Learning, Data Science, or a related field
+
+Location:
+Remote, New York, Atlanta
+
+Our Compensation & Benefits:
+Competitive compensation commensurate with experience
+Potential to earn equity based on performance
+We embrace a remote working environment
+100% Employer-Paid Medical and Dental coverage for employee and dependent
+Vision coverage for employee and dependent at a nominal cost
+Paid Maternity Leave
+FSA and Dependent Care saving account options
+401(k)
+A collaborative work environment
+
+Jaan Health is an equal opportunity employer. We recruit and hire without regard to race, national origin, religion, gender, gender identity, sexual orientation, disability, disability, marital status, veteran status, or age.",Mid-Senior level,"Engineering, Information Technology, and Research","Hospitals and Health Care, Software Development, and Technology, Information and Media",Full-time,Machine Learning Engineer,Phamily,United States
+3,"Senior Manger WFS Strategy & Data Science
+Walmart Fulfillment Services is looking for a Senior Manager, Data Science professional to work as a strategic partner across the organization. This role will work across forecasting, inventory management and allocation, to provide insights through the WFS org as we expand the business. The right candidate must be able to thrive and succeed in a startup environment, and not be hindered by ambiguity or competing priorities. You will act as a Utility player providing insights and influencing strategic decision making. Maturity, analytical skills, strong influence, negotiation skills, and leadership are essential to success in this role.
+Responsibilities
+
+Manage and execute initiatives from start to finish, including cross-functional project management, data collection and manipulation, analysis and modeling, and the communication of insights and recommendations
+Build scalable and complex supply chain models and processes to develop forecasting, inventory management & supply chain network strategies with the goal of growing sellers, SKUs, inventory health for WFS, and delivering an excellent customer experience while achieving operating cost and service targets
+Develop strong relationships & partner with functional areas like product, data science, engineering, business operations, supply chain, category managers to drive initiatives.
+Lead business planning & intelligence function by developing bottom-up modeling approach for creating annual operating plans and long range plans. Monitor progress for the plans and pivot when actuals do align with plans
+Identify areas of opportunity and influence execution of results via cross-functional participation to enable quick wins and continuous improvement
+Obtain alignment from relevant business partners and management support for projects and lead discussions to drive change
+Effectively organize, assemble, and use all available resources when given a project to ensure success
+
+You will thrive in this role if you:
+
+Bring a high degree of originality and creativity when developing solutions to improve existing business processes within the forecasting, inventory management, supply chain, utilizing methods such as statistical analysis, regression modeling, and optimization
+Are adept at dealing with ambiguity and making independent decisions about what data and approach is best for the task at hand
+Excel in communicating with individuals and groups at all levels of an organization
+
+Preferred Qualifications:
+
+10+ years of experience in Analytics Strategic role
+Excellent Presentation skills (powerpoint), writing strategic documents
+Comfortable being hands-on with analytical tools - SQL, Python, etc.
+Strategic / Tactical mindset
+Ability to make decisions based on data/ Insights in real time
+Analytics / Data Science skillset
+Demonstrated record to develop talent, coach team (indirect management/influence of team)
+Supply Chain & Inventory management, eComm transportation S&OP background a plus
+Program management / Consulting background a plus
+Judgement: good ability to manage autonomously, scale up.
+Live our Values
+Culture Champion
+• Models the Walmart values to foster our culture; holds oneself and others accountable; and supports Walmart’s commitment to communities, social justice, corporate social responsibility, and sustainability; maintains and promotes the highest standards of integrity, ethics and compliance.
+Servant Leadership
+• Acts as an altruistic servant leader and is consistently humble, self-aware, honest, and transparent.
+
+Embrace Change
+Curiosity & Courage
+• Demonstrates curiosity and a growth mindset; fosters an environment that supports learning, innovation, and intelligent risk-taking; and exhibits resilience in the face of setbacks.
+Digital Transformation & Change
+• Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working.
+Deliver for the Customer
+Customer Focus
+• Delivers expected business results while putting the customer first and consistently applying an omni-merchant mindset and the EDLP and EDLC business models to all plans.
+Strategic Thinking
+• Adopts a holistic perspective that considers data, analytics, customer insights, and different parts of the business when making plans and shaping the team’s strategy.
+Focus on our Associates
+Diversity, Equity & Inclusion
+• Identifies, attracts, and retains diverse and inclusive team members; builds a high-performing team; embraces diversity in all its forms; and actively supports diversity goal programs.
+Collaboration & Influence
+• Builds strong and trusting relationships with team members and business partners; works collaboratively and cross-functionally to achieve objectives; and communicates with energy and positivity to motivate, influence, and inspire commitment and action.
+Talent Management
+• Creates a discipline and focus around developing talent, promotes an environment allowing everyone to bring their best selves to work, empowers associates and partners to act in the best interest of the customer and company, and regularly recognizes others’ contributions and accomplishments.",Associate,"Analyst, Design, and Supply Chain","Retail Apparel and Fashion, Transportation, Logistics, Supply Chain and Storage, and Retail",Full-time,Senior Data Scientist,Walmart,"Seattle, WA"
+4,"Type: Full Time
+
+Clearance Required: Top Secret / SCI
+
+Location: Scott AFB
+
+Overview
+
+Noetic is seeking a Data Scientist to collaborate with joint forces, providing and maintaining infrastructure and tools that can be used to deliver end-to-end solutions for big data and analytical problem sets. Additionally, this team member will collaborate with other experts within and outside the DoD to leverage expertise and enable better products.
+
+Responsibilities
+
+Provide, maintain, and analyze infrastructure and tools that can be used to deliver end-to-end solutions for big data and analytical problem sets
+Design new or integrate existing tools to automatically ingest, sort, tag, and organize various data sources and types according to a schema, methodology, or ontology
+Data mine using applied mathematical formulas and/or regression analysis to determine the best variables and their appropriate weight for supporting predictive analysis
+Process, cleanse, and verify the integrity of data used for analysis
+Provide expertise/assistance in identifying and integrating applicable technologies and/or methodologies from government or commercially available sources to address intelligence needs
+Identify novel approaches to discerning patterns and correlations between disparate data sources use to answer intelligence needs
+Develop new or refine existing databases to ingest, sort, tag, and organize various data sources and types (structured and unstructured) according to an ontology to enable wider integration and analysis for intelligence needs
+Maintain working knowledge of current DoD Artificial Intelligence (Al) and Machine Learning (ML) initiatives leveraging existing expertise to better meet customer needs
+Develop and build relationships with other data scientists working similar problem sets and developing similar products within the DoD and other organizations
+Collaborate with data scientists to ensure customer efforts are in-synch and optimized to integrate with tools and displays
+Brief leadership on new requirements to meet analytical needs and significant findings/events associated with playbook/modeling/forecasting and timing
+Travel to meetings, conferences, symposiums, etc. under the discretion of leadership
+Perform other duties as assigned.
+
+Qualifications
+
+Required
+
+In depth with data management principles and technologies (e.g., database structure/schemas, data lake/lake house, SQL, etc.)
+Experience with data documentation: data dictionaries, entity relationship diagrams, etc
+Strong understanding of data ingestion, ETL processes, and data organization
+Proficiency in Python, R, or similar languages for data analysis and machine learning
+Experience with data visualization tools like Tableau, Power BI, or similar
+Experience with data mining, regression analysis, and predictive modeling
+Experience with data cleaning, verification, and integrity checks
+Familiarity with machine learning libraries and frameworks
+Knowledge of current AI and ML initiatives, techniques, and algorithms
+Ability to analyze data and identify patterns and correlations
+Excellent written and verbal communication skills to present findings and collaborate with stakeholders
+Ability to work effectively in a team environment and build relationships with other data scientists
+
+About Noetic
+
+Noetic Strategies is a dynamic, technical small business where bright minds harness the power of leading-edge technology to enhance security in our networked world. At Noetic, we pursue our mission of protecting the American experience by applying our innovations and technical excellence in software development, cybersecurity, advanced analytics, intelligence analysis, and information technology across more than 10 Federal DoD and Civilian organizations. We fuel that pursuit through corporate initiatives such as the growth of technical interns, professional development groups within Noetic, and a Project Management Center of Excellence built to provide consistent customer experiences and repeatable processes across all of our contracts.
+
+Benefits at Noetic Include:
+
+Industry leading insurance options through BCBS
+401(k) + matching
+Health and wellness reimbursement
+Tuition and certification reimbursement opportunities
+PTO
+Federal Holidays + Floating Holiday
+
+Noetic Strategies Inc. offers a competitive salary, an extensive benefits package and a work environment that encourages excellence. For positions requiring a security clearance, selected applicants will be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+
+Noetic Strategies Inc. is an equal opportunity and affirmative action employer that does not discriminate in employment.
+
+All qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, age, sexual orientation, gender identity, or national origin, disability or protected veteran status.
+
+Noetic Strategies Inc. endeavors to make www.noeticstrategies.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact noeticstrategies.com for assistance. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.
+
+Noetic Strategies Inc. offers a competitive salary, an extensive benefits package and a work environment that encourages excellence. For positions requiring a security clearance, selected applicants will be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+
+Noetic Strategies Inc. is an equal opportunity and affirmative action employer that does not discriminate in employment.
+
+All qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, age, sexual orientation, gender identity, or national origin, disability or protected veteran status.
+
+Noetic Strategies Inc. endeavors to make www.noeticstrategies.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact noeticstrategies.com for assistance. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.
+
+Powered by JazzHR
+
+A6yduvtU8w",Mid-Senior level,Engineering and Information Technology,Internet Publishing,Full-time,Data Scientist,"Noetic Strategies, Inc.","Scott AFB, IL"
+5,"Dun & Bradstreet unlocks the power of data through analytics, creating a better tomorrow. Each day, we are finding new ways to strengthen our award-winning culture and accelerate creativity, innovation and growth. Our 6,500+ global team members are passionate about what we do. We are dedicated to helping clients turn uncertainty into confidence, risk into opportunity and potential into prosperity. Bold and diverse thinkers are always welcome. Come join us! Learn more at dnb.com/careers.
+
+As a Junior Data Scientist, you will creating full end-to-end machine learning models.
+
+Responsibilities for the role:
+
+-Convert internal and clients’ business cases into a machine learning framework.
+-Find the right technique, run full a ML development cycle.
+-Clearly explain and defend results of your work to technical audiences and in laymen’s terms.
+-Independently identify business needs, generate ideas on how to address them.
+-Efficiently balance independent work with team collaboration.
+-Be able to run several projects in parallel.
+-Be proficient in managing your time to meet deadlines.
+-Be ready to do what it takes to deliver.
+-Work jointly with cross-functional business units.
+-Stay abreast of academic research and industry best practices.
+-Share your knowledge across the team. Learn from others.
+
+Qualifications:
+
+-Advanced degree in physics, math, computer science or similarly quantitative field.
+-Experience with SQL, Python, R, or other technologies for data science
+-Full proficiency of ML development cycle: data gathering and transformation experimenting, training, tuning and testing production, deployment and inference monitoring and retraining.
+-Experience operating successfully in data science roles, especially as a member of cross-functional teams.
+-Experience with solving broad range of analytic problems utilizing supervised/unsupervised learning, NLP, graphs, unstructured data analysis.
+-Intellectual honesty and common sense.
+-Comfort with ambiguity and pressure of fast paced environment.
+-Strong data engineering skills to independently overcome common bottlenecks and friction points.
+
+Benefits We Offer
+· Generous paid time off in your first year, increasing with tenure.
+· Up to 16 weeks 100% paid parental leave after one year of employment.
+· Paid sick time to care for yourself or family members.
+· Education assistance and extensive training resources.
+· Do Good Program: Paid volunteer days & donation matching.
+· Competitive 401k & Employee Stock Purchase Plan with company matching.
+· Health & wellness benefits, including discounted Wellhub membership rates.
+· Medical, dental & vision insurance for you, spouse/partner & dependents.
+· Learn more about our benefits: http://bit.ly/41Yyc3d.
+
+All Dun & Bradstreet job postings can be found at https://www.dnb.com/about-us/careers-and-people/joblistings.html and https://jobs.lever.co/dnb. Official communication from Dun & Bradstreet will come from an email address ending in @dnb.com.
+
+Notice to Applicants: Please be advised that this job posting page is hosted and powered by Lever. Your use of this page is subject to Lever's Privacy Notice and Cookie Policy, which governs the processing of visitor data on this platform.
+
+Equal Employment Opportunity (EEO): Dun & Bradstreet is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, age, national origin, citizenship status, disability status, sexual orientation, gender identity or expression, pregnancy, genetic information, protected military and veteran status, ancestry, marital status, medical condition (cancer and genetic characteristics) or any other characteristic protected by law. View the EEO is the Law poster here. View the pay transparency policy here.
+
+Dun & Bradstreet is committed to Equal Employment Opportunity and providing reasonable accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with Dun & Bradstreet and need special assistance or an accommodation to use our website or to apply for a position, please send an e-mail with your request to AcquisitionT@dnb.com. Determination on requests for reasonable accommodation are made on a case-by-case basis.",Associate,"Engineering, Information Technology, and Science","IT Services and IT Consulting, Information Services, and IT System Data Services",Full-time,Junior Data Scientist,Dun & Bradstreet,"Florham Park, NJ"
+6,"Position: Data Scientist
+
+Location: Santa Clarita, CA (Onsite)
+
+Experience: 10+ Years
+
+Work type: C2C only
+
+PETADATA is currently looking to hire for the position of Data Scientist for one of our clients.
+
+Roles & Responsibilities
+
+10+ years of experience, ideally within a Data Science role.
+Primary responsibility will be to develop and optimize custom ML/AI algorithms for new and existing applications.
+Broad knowledge of computer vision, NLP, time series forecasting, and anomaly detection.
+Knowledge of traditional ML algorithms such as regression, classification, and clustering algorithms.
+Understanding of state-of-the-art deep learning model architectures in the areas of computer vision (NLP would be a plus)
+Experience in implementing and optimizing object detection and instance/semantic segmentation models.
+Experience in model performance tracking using appropriate KPIs.
+
+Required Skills
+
+Strong fundamentals in Python programming.
+Good knowledge of OpenCV, Scikit-image, TensorFlow, Torch, Pillow, numpy, pandas, sci-kit-learn, etc.
+Understanding the SW development cycle, from requirements to testing, integration, and delivery.
+Familiarity with model shrinking techniques for deployment on edge devices with a limited footprint.
+Experience in setting up end-to-end pipelines for model deployment.
+Must have good communication and verbal skills
+
+Educational Qualification
+
+Bachelor's/ Master’s degree in Computer Science, Engineering, or a related field.
+
+We offer a professional work environment and are given every opportunity to grow in the Information technology world.
+
+Note
+
+Candidates are required to attend Phone/Video Call / In-person interviews and after Selection, the candidate (He/She) should go through all background checks on Education and Experience.
+
+Please email your resume to: anandinik@petadata.co
+
+After carefully reviewing your experience and skills one of our HR team members will contact you on the next steps.",Mid-Senior level,Engineering and Information Technology,"Technology, Information and Internet",Full-time,DATA SCIENTIST,PETADATA,"Santa Clarita, CA"
+7,"Founded in 2003, IT Concepts' core values - customer-centricity, teamwork, driven to deliver, innovation, and integrity - ensure we work together to be the best, realize objectives, and make a positive impact in our communities. We intentionally created and sustain our ITC culture that embraces change, experimentation, continuous learning, and improvement. We bring our design thinking problem solving approach that challenges assumptions, prioritizes curiosity, and invites complexity to deliver innovative, efficient, and effective solutions. As we continue to grow in the support of our government customers, we are looking for driven and innovative individuals to join our team. 
+IT Concepts Inc. (ITC) is seeking an experienced Data Scientist to join our team of diverse technical professionals to assist the Department of Veterans Affairs (VA) in analyzing clinical data and Informatics solutions delivered to the VA enterprise to support organizational learning and a High-Reliability Organization. 
+ The qualified applicant will become part of ITC's team supporting our Department of Veterans Affairs client. The candidate should be skilled in reporting and analytics tools and methods and communicate effectively with executive leadership. 
+Location{{:}} Remote position; able to work East Coast Hours (primarily)
+Responsibilities{{:}} 
+Develops and manages information to support strategic decision-making  
+Performs complex analyses and communicates findings to business owners and senior leaders 
+Conducts and facilitates (and educates and trains on) analyses, data research, data manipulation, risk assessment, solution development, and strategic alignment 
+Provides consulting and analytic services to leadership 
+Collaborates with cross-functional teams to develop data visualizations with meaningful insights  
+Analyzes and interprets data trends and patterns with performance objectives in mind 
+Defines data assets to develop performance measurements, key performance indicators and objectives, and key results 
+
+Requirements
+
+Master's degree plus 5 years of relevant experience
+Experience creating and analyzing clinical data and creating data visualizations that communicate clinical outcomes, improvements, and costs 
+Experience using statistical methods for the measurement of clinical outcomes 
+MUST HAVE{{:}} Experience with conducting causal inference with observational data and in quasi-experimental settings (e.g., differences-in-differences, instrumental variables, regression discontinuity designs, causal forests, meta-learners, doubly robust learning, etc.) 
+Hands-on experience with statistics and machine learning data mining, forecasting, simulation, and/or predictive modeling, preferably in the healthcare sector 
+Advanced experience handling complex data sets within large organizations, including data cleaning, transformation, and analysis 
+Excellent written and oral communication skills; must provide examples if chosen for an interview 
+Understanding of data ethics principles and how to avoid or reduce biases to build ethical and responsible data science/analytics products. 
+Strong programming skills in Python and/or R with a focus on data analysis, data science, or machine learning. 
+Advanced SQL development experience 
+Strong understanding of version control (i.e. git) 
+Preferred{{:}} 
+PhD in a quantitative field, such as Statistics, Epidemiology, Computer Science, Clinical Informatics or related disciplines.
+Experience in Agile, SAFe Agile 
+VA experience 
+Experience with VistA/CPRS a plus, and VA Corporate Data Warehouse (CDW) 
+Clearance Requirements{{:}} 
+Must be able to obtain and maintain a public trust clearance 
+
+Benefits
+
+The Company
+We believe in generating success collaboratively, enabling long-term mission success, and building trust for the next challenge. With you as our partner, let's solve challenges, think innovatively, and maximize impact. As a valued member of our team, you have the unique opportunity to work in a diverse range of technology and business career paths, all while supporting our nation and delivering innovative technology solutions. We are a close community of experts that pride ourselves on creating an environment defined by teamwork, dedication, and excellence.
+We hold three ISO certifications (27001{{:}}2013, 20000-1{{:}}2011, 9001{{:}}2015) and two CMMI ML 3 ratings (DEV and SVC).
+Industry Recognition
+Growth | Inc 5000's Fastest Growing Private Companies, DC Metro List Fastest Growing; Washington Business Journal{{:}} Fastest Growing Companies, Top Performing Small Technology Companies in Greater D.C.
+Culture | Northern Virginia Technology Council Tech 100 Honoree; Virginia Best Place to Work; Washington Business Journal{{:}} Best Places to Work, Corporate Diversity Index Winner - Mid-Size Companies, Companies Owned by People of Color; Department of Labor's HireVets for our work helping veterans transition; SECAF Award of Excellence finalist; Victory Military Friendly Brand; Virginia Values Veterans (V3); Cystic Fibrosis Foundation Corporate Breath Award
+Benefits
+We offer great benefits - Competitive Paid Time Off, Medical, Dental and Vision Insurance, Identity Theft Protection, Legal Resources Coverage, 401(k) with company matching with NO vesting period.  ITC Health benefits have a $0 premium for certain plans for eligible employees.
+We invest in our employees - Every employee is eligible for education reimbursement for certifications, degrees, or professional development.  Reimbursement amounts may fluctuate due to IRS limitations. We want you to grow as an expert and a leader and offer flexibility for you to take a course, complete a certification, or other professional growth and networking. We are committed to supporting your curiosity and sustaining a culture that prioritizes commitment to continuous professional development.
+We work hard, we play hard. ITC is committed to incorporating fun into every day. We dedicate funds for activities - virtual and in-person - e.g., we host happy hours, holiday events, fitness & wellness events, and annual celebrations. In alignment with our commitment to our communities, we also host and attend charity galas/events. We believe in appreciating your commitment and building a positive workspace for you to be creative, innovative, and happy.
+AAEO & VEVRAA
+ITC is an Affirmative Action/Equal Opportunity employer and a VEVRAA (Vietnam Era Veterans' Readjustment Assistance Act) Federal Contractor. As such, any personnel decisions (hire, promotion, job status, etc.) on applicants and/or employees are based on merit, qualifications, competence, and business needs, not on race, color, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, pregnancy, childbirth or related medical condition, genetic information of the employee or family member of the employee, marital status, veteran status, political affiliation, or any other factor protected by federal, state or local law.
+ITC maintains a strong commitment to compliance with VEVRAA and other applicable federal, state, and local laws governing equal employment opportunity. We have developed comprehensive policies and procedures to ensure our hiring practices align with these requirements.
+As a part of our VEVRAA compliance efforts, ITC has established an affirmative action plan that outlines our commitment to the recruitment, hiring, and advancement of protected veterans. This plan is regularly reviewed and updated to ensure its effectiveness.
+We encourage protected veterans to self-identify during the application process. This information is strictly confidential and will only be used for reporting and compliance purposes as required by law. Providing this information is voluntary, and it will not impact your eligibility for employment.
+Our commitment to equal employment opportunity extends beyond legal compliance. We are dedicated to fostering an inclusive workplace where all employees, including protected veterans, are treated with dignity, respect, and fairness.
+How to Apply
+To apply to IT Concept Positions- Please click on the{{:}} ""Apply for this Job"" button at the bottom of this Job Description or the button at the top{{:}} ""Application.""  Please upload your resume and complete all the application steps. You must submit the application for IT Concepts to consider you for a position.  If you need alternative application methods, please email careers@useitc.com and request assistance.  
+Accommodations
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable Accommodations may be made to enable qualified individuals with disabilities to perform the essential functions. If you need to discuss reasonable accommodations, please email careers@useitc.com.  ",Mid-Senior level,Analyst,"Technology, Information and Internet",Full-time,Data Scientist (Healthcare),"IT Concepts, Inc","District of Columbia, United States"
+8,"This role is responsible for analysis & modeling to develop data-driven solutions. Will assist in the maintenance and improvement of existing systems, while also developing new solutions for future systems.
+
+Please note that this is an on-site position based in Riverview, FL, and is an immediate opening with a target fill date of this Fall 2024. Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment visa at this time.
+
+What does a typical day look like?
+Aid in the redesign and modeling of pricing algorithms
+Analyze pricing strategy, strategic portfolios, and risk by combining business acumen and analytics skills.
+Collaborates with the analytics team to improve existing models, and create new data driven solutions
+Aid in the development of LLM powered agents
+Use predictive modeling to optimize, generate revenue and drive efficiency
+Participates in innovation and R&D
+Assists in ETL and data migration processes
+Develop processes and tools to monitor and analyze model performance
+Analyze operational and financial variances to understand trends and implications
+Provides proactive analysis and subsequent recommendations identifying opportunities for improvement
+Create ad-hoc analyses that help drive business strategy and improve efficiency
+Gather, organize and make sense of disparate data sets
+Prepare high quality analysis, communications and presentations. Presents results in a clear and compelling way to stakeholders
+
+What are we seeking?
+Intermediate knowledge of Python
+Intermediate knowledge of SQL databases
+Self-driven and creative; Comfortable in a project-based environment
+Strong analytical thinking, problem-solving and data manipulation skills are required
+Experience applying data science in school projects or the professionally
+Minimum of 1-5 years of work or educational experience creating and using machine learning algorithms and statistics: regression, simulation, scenarios, modeling, decision trees, etc.
+Basic knowledge of decision trees
+Basic knowledge of neural networks
+Basic knowledge of Large Language Models
+Basic Excel knowledge
+C# is a plus, but not required",Associate,Analyst and Information Technology,"Transportation, Logistics, Supply Chain and Storage",Full-time,Junior Data Scientist,BlueGrace Logistics,"Riverview, FL"
+9,"Role:- Sr. Data Scientist
+
+Remote
+
+Responsibilities
+
+Design and develop Machine Learning & Statistical Models (using R & Python), and other data analysis techniques to collect, explore, and extract insights from structured and unstructured electronic health record data
+Build and advocate data-driven solutions that help customers improve clinical outcomes and processes
+Design and build scalable production-ready analytics solutions using a wide array of techniques and methodologies in the field of statistical modeling, machine learning, and other AI technologies to meet the needs of given client engagements
+
+Requirements
+
+Minimum of master’s degree in Computer Science, Statistics, Engineering, Physics, or other highly quantitative and technically oriented field and 3+ years of professional work experience as a quantitative analyst or applied analytics technical leader (healthcare experience preferred)
+Mastery of statistical software, scripting languages, and packages- preferred R, Python, SQL
+SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of other databases/date-sources.
+Solid understanding of supervised and unsupervised ML techniques.
+Solid understanding of data structures, software design and architecture.
+Ability to work independently and take initiative, but also a co-operative team player.
+Proficient at interpreting business questions and applying concepts to data
+Excellent Communication and presentation skills, proficiency in data interpretation
+
+PSRTEK is a reputed technology recruitment and IT staffing brand with a global footprint and an admired client base. As an ideas and innovation powerhouse with a culture of excellence, we bring remarkable expertise and deliver powerfully transformative results.",Mid-Senior level,Engineering and Information Technology,IT Services and IT Consulting,Full-time,Data Scientist,PSRTEK,"New York, NY"
+10,"Responsibilities
+
+Collect, process, and analyze large datasets to identify trends and insights.
+Develop predictive models and machine-learning algorithms.
+Prepare comprehensive reports and visualizations to communicate findings.
+Collaborate with cross-functional teams to define data requirements and drive data-driven decisions.
+Stay updated with the latest data science techniques and technologies.
+
+Qualifications
+
+Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, or a related field.
+Proven experience as a Data Scientist.
+Proficiency in programming languages such as Python or R.
+Strong knowledge of statistical methods and machine-learning techniques.
+Excellent problem-solving skills and attention to detail.
+Ability to work independently and manage multiple projects.",Entry level,Engineering and Information Technology,IT Services and IT Consulting,Full-time,Data Scientist,Digital Janet,United States
+11,"Hi,
+
+Hope you are doing well
+
+Number of position : 6
+
+Only Full Time no C2C and No Contract
+
+Full-time
+
+I, Shakib (i3 infotek) would like to share a job opportunity as Data Scientist based in Irving, TX (Onsite) location for a Full-time position.
+
+In case, if you are not comfortable with this location, please share your preference with contact details for further requirements ***
+
+Kindly find the JD below and let me know if you are available for the same.
+
+Data Scientist
+
+Job Location: Irving, TX (Onsite)
+
+Duration: Full-time
+
+Job Description
+
+Skill: Data Scientist with Generative AI Expertise
+
+Role & Responsibilities
+
+Design, develop, and implement advanced AI solutions to solve complex business problems across various domains.
+
+Collaborate with engineers, researchers, and product managers to understand business needs and translate them into technical specifications for AI models.
+
+Gather, clean, and prepare data for training and evaluating sophisticated AI models, ensuring data quality and ethical considerations.
+
+Explore and implement state-of-the-art AI techniques, including deep learning, natural language processing, and computer vision, tailored to specific needs.
+
+Evaluate and compare different AI model architectures and hyperparameters to optimize performance, address potential biases, and ensure responsible development.
+
+Develop monitoring and evaluation frameworks to track AI model performance and ensure alignment with business goals.
+
+Communicate complex AI concepts and findings to technical and non-technical audiences through data visualization, storytelling, and presentations.
+
+Skills
+
+Technical:
+
+Programming languages: Python (proficient) with major Client libraries.
+
+Experience with opensource Gen AI LLMs e.g., Llama and Dolly.
+
+Machine learning, NLP & deep learning: Strong understanding of supervised and unsupervised learning, neural networks, transformers.
+
+Generative AI techniques: Experience with GANs, text-to-image generation, text generation models.
+
+Data wrangling & manipulation: SQL, data cleaning, feature engineering.
+
+Hyperscalers: AWS, Azure, or GCP experience a plus
+
+Non-technical
+
+Problem-solving & critical thinking: Ability to identify and solve complex problems with data-driven solutions.
+
+Communication & collaboration: Effectively communicate technical concepts to diverse audiences, work with geographically distributed teams.
+
+Innovation & creativity.
+
+Attention to detail & accuracy.
+
+Self-motivation & continuous learning.
+
+Please reply me with your updated resume and required details:
+
+Full Name
+
+Best number to reach you:
+
+Work Authorization/Visa Status
+
+Current Location:
+
+Expected Compensation
+
+Best time to call you:
+
+Waiting for your earliest response
+
+Sincerely,
+
+Mohd Shakib
+
+Sr. Technical Recruiter Direct: 781-896-2153
+
+Address: 1500 District Avenue, Ste. 4135, Burlington, MA 01803",Mid-Senior level,Information Technology,Information Technology & Services,Contract,Data Scientist (AI/ML),Syntricate Technologies,"Irving, TX"
+12,"LightFeather is currently seeking a talented Data Scientist to join our dynamic team. The successful candidate is someone who is passionate about harnessing the power of data to make informed decisions and drive our data science initiatives to new heights, as we are at the forefront of leveraging data science to drive innovation and solve complex challenges.
+
+This Position is Full Time, Remote.
+
+Responsibilities:
+
+Developand deploypredictive models, machine learning algorithms, and statistical analyses to address complex business challenges
+Collaborate with business units and IT teams to define data science projects that support the IRS's strategic objectives
+Manage the data science project lifecycle, including data exploration, model development, validation, and deployment
+Ensure the accuracy and integrity of data used in analysis and modeling
+Communicate complex data science concepts and findings to non-technical stakeholders through clear and actionable reports and presentations
+Contribute toa culture of innovation and continuous learning
+
+Minimum Requirements:
+
+US Citizenship
+Active clearance at thePublic Trust level or higher. IRS clearance preferred
+Bachelor’s degree preferred or equivalent experience
+5+ years of overall experience in the field of data science, with a proven track record in predictive modeling or a similar analytical role
+3+ years of hands-on experience in data science, focusing on the design and construction of data science models and the development of their deployment pipelines
+Demonstrated expertise in machine learning algorithms and statistical modeling techniques
+Experience with data visualization tools (e.g., Tableau, PowerBI) and big data technologies (Hadoop, Spark)
+Solid understanding of GitLab for version control and experience with developing and applying GitHub branching strategies
+Excellent communication skills, with a track record of delivering data-driven projects
+Strong analytical skills, with experience in analytics and exploratory data analysis
+Experience in delivering data pipelines, with an emphasis on quality, efficiency, and scalability
+
+Why Join LightFeather?
+
+You'll be part of a team dedicated to meaningful impact, working on solutions that address mission-critical needs. Experience variety, fulfillment, and the opportunity to work with some of the best in the industry. We are committed to fostering a diverse and inclusive environment where everyone is valued and respected.
+
+Commitment to Diversity
+
+LightFeather is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees, regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.
+
+Powered by JazzHR
+
+gnAhcf30TV",Mid-Senior level,Engineering and Information Technology,Internet Publishing,Full-time,Data Scientist,LightFeather,"Alexandria, VA"
+13,"The Possibilities are Endless When You ChallengeTheNorm
+Birlasoft combines the power of domain, enterprise, and digital technologies to reimagine business processes for customers and their ecosystem. Its consultative and design thinking approach makes societies more productive by helping customers run businesses. As part of the multibillion-dollar diversified CK Birla Group, Birlasoft with its 12,500+ professionals, is committed to continuing the Group’s 162-year heritage of building sustainable communities.
+
+Job Opening:AI/ML Engineer(Data Scientist)
+Remote
+
+Must have:
+- More senior with at least 10 year’s experience (python, scikit, xgboost)
+- Deep learning modeling (pytorch preferred, tensorflow)
+- NLP experience
+- Good communication, can interface with the business
+Nice to have:
+Graph neural nets (GNN, GCN)
+Some past insurance or risk modeling
+genAI/LLM
+streamlit/or other UI
+MLOps/deployment/full stack",Mid-Senior level,"Health Care Provider, Consulting, and Information Technology","IT Services and IT Consulting, Public Health, and Hospitals and Health Care",Full-time,Data Scientist,Birlasoft,United States
+14,"Responsibilities
+
+Collect, process, and analyze large datasets to identify trends and insights.
+Develop predictive models and machine-learning algorithms.
+Prepare comprehensive reports and visualizations to communicate findings.
+Collaborate with cross-functional teams to define data requirements and drive data-driven decisions.
+Stay updated with the latest data science techniques and technologies.
+
+Qualifications
+
+Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, or a related field.
+Proven experience as a Data Scientist.
+Proficiency in programming languages such as Python or R.
+Strong knowledge of statistical methods and machine-learning techniques.
+Excellent problem-solving skills and attention to detail.
+Ability to work independently and manage multiple projects.",Entry level,Engineering and Information Technology,IT Services and IT Consulting,Full-time,Data Scientist,Digital Janet,United States
+15,"We are looking for an experienced Data Scientist to join our Emission Environmental Team. The primary focus of this role will be to analyze current emissions data, model future scenarios, and provide insights to ensure that the client’s new warehouses are built with environmental sustainability in mind, minimizing emissions and adhering to climate-friendly practices.
+Key Responsibilities:
+Analyze emissions data to assess the environmental impact of new warehouse constructions and operations.
+Develop data models and perform statistical analyses to provide actionable insights for reducing emissions.
+Collaborate with the Emission Environmental Team to ensure projects are environmentally sustainable and aligned with climate treaties.
+Use machine learning and statistical methods to model emissions data, identifying trends and making predictions about future impacts.
+Build and maintain interactive data visualization dashboards using Streamlit or similar tools to communicate findings to stakeholders.
+Apply theoretical models to real-world data, ensuring practical, sustainable outcomes.
+Create comprehensive reports and presentations for both technical and non-technical audiences.
+Required Skills & Qualifications:
+4+ years of experience with data querying languages (e.g., SQL), scripting languages (e.g., Python), and statistical/mathematical software (e.g., R, MATLAB, SAS).
+3+ years of experience in machine learning, statistical Modeling, and data analysis techniques.
+Proficiency in Python, R, and MATLAB for data analysis and Modeling.
+Experience building front-end dashboards using visualization tools like Streamlit / QuickSight.
+Demonstrated ability to apply theoretical models to practical, real-world problems.
+Strong analytical, problem-solving, and communication skills.",Mid-Senior level,Information Technology,Telecommunications,Contract,Data Scientist,GCS,"New York, United States"
+16,"Responsibilities
+
+Collect, process, and analyze large datasets to identify trends and insights.
+Develop predictive models and machine-learning algorithms.
+Prepare comprehensive reports and visualizations to communicate findings.
+Collaborate with cross-functional teams to define data requirements and drive data-driven decisions.
+Stay updated with the latest data science techniques and technologies.
+
+Qualifications
+
+Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, or a related field.
+Proven experience as a Data Scientist.
+Proficiency in programming languages such as Python or R.
+Strong knowledge of statistical methods and machine-learning techniques.
+Excellent problem-solving skills and attention to detail.
+Ability to work independently and manage multiple projects.",Entry level,Engineering and Information Technology,IT Services and IT Consulting,Full-time,Data Scientist,Digital Janet,United States
+17,"Las Vegas, Nevada (Hybrid)
+
+Long term contract
+
+The Machine Learning (ML) Engineer is an expert in developing and implementing machine learning algorithms and models, focusing on solving complex business problems and enhancing technological solutions within the organization.
+
+The candidate must demonstrate substantial background and passion for machine learning, AI, and statistical modeling.
+
+Essential Duties & Responsibilities
+
+Architect and build robust cloud-based pipelines and robust ML framework to train, deploy, infer and monitor machine learning models at scale.
+Apply expertise in model design, training, evaluation, validation, implementation, and monitoring.
+Conduct data preprocessing, feature engineering, and model evaluation.
+Manage workflows and data pipelines.
+Implement monitoring systems to track how models are performing.
+Design, develop, and implement predictive models and algorithms to support business objectives.
+Conduct exploratory data analysis, descriptive analysis and deep dives, and examine large datasets to uncover trends, patterns, and opportunities for business improvement.
+Incorporate visualization techniques to support the relevant points of the analysis and ease the understanding for less technical audiences.
+Formulate infrastructure decisions using understanding of ML modeling techniques and issues, including choice of model, data, and feature selection, model training, hyperparameter tuning, dimensionality, bias/variance, and validation.
+Create and maintain detailed documentation for operational execution.
+Ensure all code is well-managed to reduce vulnerabilities, models are well-governed from a risk perspective, and the ML follows best practices in Responsible and Explainable AI.
+Drive code reviews to help team adhere to general best practices.
+Provide technical guidance and mentorship to other team members.
+Innovate with new approaches, staying abreast of current research and latest technologies in the broader ML engineering community.
+
+Minimum Qualifications
+
+Bachelor's degree in computer science, engineering, data science, statistics, mathematics, or a related field. Master's degree preferred.
+Must be able to obtain and maintain Nevada Gaming Control Board registration and any other certification or license, as required by law or policy.
+A minimum of 2 years of relevant experience.
+Practical experience in building, evaluating, scaling, and deploying machine learning pipelines with Python, preferably within the Google Cloud Platform and Databricks ecosystem
+Programming skills in Python and fluency in data manipulation (SQL, Spark, Pandas) and machine learning (e.g.: scikit-learn, Keras/Tensorflow, etc.) and optimization (e.g. linear programming) tools.
+Experience with CI/CD pipelines, and Git version control.
+Experience with data visualization to convey ML models behavior and business insights.
+Demonstrated experience in statistical and/or quantitative analysis, forecasting, predictive analytics, multivariate testing, outlier analysis and/or optimization algorithms.
+Expertise in AI/ML model design and development, frameworks, and libraries such as TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, NLTK or spaCy, OpenCV or similar.
+Experience working with large, dynamic data sets and developing code to ingest, cleanse, and evaluate data.
+Solid understanding of Machine Learning fundamentals and ability to translate business requirements into machine learning solutions.
+
+Regards,
+
+Ayush Sharma
+
+Sr. US IT Recruiter
+
+321-323-1062 | Ext:149
+
+Ayush@stellentit.com | G-talk:Ayush@stellentit.com",Entry level,Engineering and Information Technology,Staffing and Recruiting,Full-time,Machine Learning (ML) Engineer,Stellent IT,"Las Vegas, NV"
+18,"Product Data Scientist
+
+The Data team leverages data from our autonomous vehicles, operations, and rider experience to enhance driving performance and service readiness. We provide the foundation for strategic decision-making, enabling our stakeholders to make trusted decisions faster and gain deeper insight into their problems.
+
+The Data Scientist in this role will serve our Product and Operations stakeholders as we prepare for commercial launch. This role will be key to prioritize product features, investigate hypotheses, uncover insights, and guide the Product team to data-driven decisions. You will bring not just analysis and experimentation skills, but also the curiosity to discover and dig deeper into data as well as the ownership to propose novel solutions to problems in this space. As a result, your work will accelerate our understanding of our service so we can provide a convenient, safe, and delightful experience for our riders.
+
+Responsibilities
+
+Coordinate with Product, Operations, and Engineering stakeholders to understand product requirements and problem statements
+Process, clean, and validate the data to be used in analysis
+Partner with data engineers to enhance data collection and transformation methods when needed
+Analyze data to describe and diagnose our service performance and implement analytical models into production
+Propose, test, and validate hypotheses about our service and rider experience in collaboration with Product
+Present insights, findings, and solutions to stakeholders
+
+
+Requirements
+
+Qualifications
+
+BS/MS: 4+ years of data science and analytics experience or PhD in related discipline
+Strong fluency with Python
+Strong fluency with SQL
+Strong experience with statistical methods and mathematical models
+Strong written and verbal communication skills
+Good experience with data visualization tools (e.g. Tableau, Looker, PowerBI)
+Good experience with experimentation methods (e.g. A/B testing)
+
+
+Bonus Qualifications
+
+Experience with predictive modeling frameworks and machine learning methods
+Experience with a workflow manager such as Airflow
+Experience with data warehouse platforms (e.g. Redshift, BigQuery, Databricks, ...)
+Experience with large scale processing frameworks (e.g. Spark, Hadoop, ...)
+Experience with large scale streaming platforms (e.g. Kafka, Kinesis)
+
+
+Benefits
+
+Health Care Plan (Medical, Dental & Vision)
+Life Insurance (Basic, Voluntary & AD&D)
+Paid Time Off (Vacation, Sick & Public Holidays)
+Training & Development
+Retirement Plan (401k, IRA)",Mid-Senior level,Information Technology,Non-profit Organizations and Primary and Secondary Education,Full-time,"Data Scientist, Autonomous Vehicles",A Society US,"San Francisco, CA"
+19,"About Our Company:
+Daddy Sports is committed to making sports simulation widely accessible. The future of sport is practiced and played at-home or in specialized training facilities. We’re making simulators affordable and accessible starting with Golf. We built a $99 golf simulator that is disrupting an industry where the average cost of a simulator is $5000. On all fronts we’ve received tons of recognition, but we’re most proud of our community of over 200,000 supporters on TikTok, Instagram, and YouTube. We started 2 years ago and we’re very early on in our journey, join us today as we blast through an otherwise slow industry and be part of this sports revolution where we turn every sport into an every day option.
+Check us out at Golfdaddy.com or in hundreds of stores across the country. (Dicks sporting goods, Golf Galaxy, and more)
+
+We are looking for an experienced Machine Learning Engineer to join us
+
+What you’ll do:
+Build the latest and greatest machine learning for sports simulation & improvement
+Build compute intensive computer vision models
+Collaborate on real world scrappy and innovative data collection strategies
+Solve real world problems with machine learning that democratize sports play & practice.
+
+What you’ll need:
+5+ Software Engineering experience in Machine Learning or Computer Vision
+3+ AWS experience
+Extensive understanding of tabular or ""traditional"" machine learning experience
+Ability to create and modify existing deep learning models
+Experience dockerizing/deploying/GPU intensive applications
+Model conversion and mobile deployment experience
+
+Culture:
+Daddy Sport’s culture is lively and in-person. Team members are in the office 5 days per week, 8am to 5pm at the Irvine, CA headquarters. This requires occasional weekend work and long hours. Most will tell you they’d prefer to be nowhere else. There is unparalleled excitement and energy with the speed at which we’re growing and a catalyst to grow your career with the trajectory we’re on. If you want to join an early startup with 1000% YoY growth this is for you.",Not Applicable,Engineering and Information Technology,Software Development,Full-time,Machine Learning Engineer,Golf Daddy,"California, United States"
+20,"About the Company:
+Birlasoft combines the power of domain, enterprise, and digital technologies to reimagine business processes for customers and their ecosystem. Its consultative and design thinking approach makes societies more productive by helping customers run businesses. As part of the multibillion-dollar diversified CK Birla Group, Birlasoft with its 12,500+ professionals, is committed to continuing the Group’s 162-year heritage of building sustainable communities.
+
+About the Role:
+The ideal candidate is always looking for ways to improve a product or service to make it better, faster, and more user-friendly. You are responsible for producing technology solutions from concept to delivery that satisfy customer needs in alignment with our overall strategy.
+
+Machine Learning/Artificial Engineer
+New Jersey
+
+Responsibilities:
+An experienced professional with at least six years of expertise in Python, scikit-learn, and XGBoost.
+Skilled in deep learning modeling, with a preference for PyTorch (although TensorFlow is also acceptable).
+Well-versed in natural language processing (NLP).
+Outstanding communication abilities, capable of engaging effectively with business stakeholders.
+
+Qualifications:
+Degree in Computer Science Engineering.
+
+Required Skills:
+Knowledge of graph neural networks (GNN, GCN).
+Background in insurance or risk modeling.
+Familiarity with genAI/LLM.
+Experience with Streamlit or other UI frameworks.
+Competence in MLOps, deployment, and full-stack development.",Mid-Senior level,Information Technology and Manufacturing,"Medical Equipment Manufacturing, Manufacturing, and IT Services and IT Consulting",Full-time,Machine Learning/Artificial Engineer,Birlasoft,"New Jersey, United States"
+21,"Job Title: Data Scientist 2 (DATAS2)
+
+Company: SouthStar Energy LLC (A Southern Company)
+
+Work Location: Hybrid (based in Atlanta, Georgia)
+
+Expected Duration of Assignment:1 year contract, reviewed annually
+
+Estimated Start Date: September 24, 2024
+
+Job Description
+
+Job Summary:
+
+We are seeking a talented Data Scientist to support AI exploration and implementation to enhance our business operations. The ideal candidate will be responsible for identifying potential use cases for AI and leading efforts to build solutions for these use cases by leveraging machine learning algorithms and AI tools. As part of our leading-edge advanced analytics team, you will help drive analytics across the organization to improve customer experience and optimize operations. This is an individual contributor role, providing autonomy in technical and analytical choices, including determining the appropriate modeling techniques and making design decisions.
+
+Key Responsibilities:
+
+Identify and evaluate potential AI use cases to enhance business operations
+Lead the development and implementation of AI solutions for identified use cases
+Utilize machine learning algorithms and AI tools to build and deploy models
+Collaborate with cross-functional teams to integrate AI solutions into business processes
+Partners with IT to effectively migrate analytical models from prototype to production
+Conduct data analysis to uncover insights and support decision-making
+Ensure data quality and integrity throughout the AI solution development process
+Present findings and recommendations to stakeholders in a clear and concise manner
+Stay up-to-date with the latest advancements in AI and machine learning technologies
+Self-starter and a multi-tasker who can work independently under tight timelines
+
+Qualifications:
+
+Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Mathematics, or a related field
+Proven experience in data science, machine learning, and AI
+Strong programming skills in languages such as Python, R, or similar. Python is highly preferred
+Experience with machine learning frameworks and tools (e.g., Azure, Databricks, Google Cloud)
+Experience with data visualization tools (e.g., Tableau, Power BI)
+Experience with big data technologies (e.g., Hadoop, Spark) is a plus
+Excellent analytical and problem-solving skills
+Ability to work independently and make autonomous technical and analytical decisions
+Strong communication skills to effectively convey complex technical concepts to non-technical stakeholders
+
+Why Join Us:
+
+Be part of a cutting-edge advanced analytics team
+Opportunity to lead AI initiatives and make a significant impact on business operations
+Collaborative and innovative work environment
+
+This is an exciting opportunity to join SouthStar Energy LLC, a subsidiary of Southern Company, and contribute to impactful projects.
+
+Powered by JazzHR
+
+eqVW5FKBxf",Mid-Senior level,Engineering and Information Technology,Internet Publishing,Contract,Data Scientist 2,BLOC Resources,"Atlanta, GA"
+22,"About Us
+
+We're on a mission to transform spoken communication for individuals, teams and organizations of any size. Meetings may be our most information rich channel for work, but suffer from a lack of structure and documentation. At Supernormal, we're solving this problem with focus, design and craft.
+
+We've been working on this since 2019 and have customers like Snap, Salesforce, Replay, Gitcoin, Pinterest and thousands more on this journey with us. Today, we are growing rapidly and are excited for new teammates to join who are the best at what they do. We're passionately building a team that is as diverse and creative as the millions of people we serve worldwide.
+
+Supernormal is a remote first company and does not require co-location. We have annual team retreats and gather several times a quarter.
+
+About The Role
+
+Machine learning engineers at Supernormal build the AI that superpowers the core product experience for people's meetings including transcription, note generation, and task automation. The AI team builds reliable and secure services that use the most advanced AI models in the market to generate millions of high-quality meeting notes to a rapidly growing customer base. Our work revolves heavily around software engineering, too - we are looking for people with a drive to roll up their sleeves and get new models and features out to users as quickly as possible.
+
+What You'll Work On
+
+As an ML engineer on Supernormal's AI team, you will be responsible for the end-to-end development of our AI solutions for meeting notes, question answering, and task completion. Your work will encompass LLM API calls, custom model training and deployment, speech recognition, quality evaluation and fixes, retrieval augmented generation, and much more. You'll play a key role in optimizing for cost, latency, and quality. Some of the projects you'll work on include:
+
+Prompt engineering using state-of-the-art techniques to improve the core meeting assistant scenarios
+Building and shipping custom machine learning models to augment the AI stack, including improving transcript quality, reducing tokens sent to APIs, removing defects in LLM output, and extracting semi-structured data
+Training and deploying custom large language models from open source using state-of-the-art techniques (LoRA, RLHF, instruction-tuning, etc) and fine tuning foundation models for a variety of business purposes
+Developing new product experiences using NLP & LLMs that get better based on user feedback & iteration while collaborating with product engineers & design team
+Defining and improving business & product metrics to optimize the quality and cost of AI usage
+Improving LLM-powered search and question answering (using RAG) over sets of meetings
+Advocating for, and building, new and better ways of doing things. You'll leave everything you touch just a bit better than you found it
+
+
+Requirements
+
+What you will bring
+
+We are a fast-moving startup building zero-to-one products on top of large language models. The ideal candidate has a strong machine learning background and a hacker mindset, someone who can both spin up Jupyter Notebooks to train models and also excel at writing solid, fast production code for deployment.
+
+AI/ML Experience: Demonstrated proficiency in AI/ML with a track record of at least 3-5 years experience building machine learning systems, up to speed on the latest in NLP & LLMs, and proficient in data curation, modeling, and training models. We require skills for shipping and maintaining ML in production settings
+A Solid Educational Foundation: Bachelor's degree in Computer Science, Engineering, AI, Mathematics, or related field; Master's degree or PhD a plus
+Versatile Software Engineering Skills: A solid engineering background with a robust foundation in software engineering principles. You have written code for and supported production engineering systems.
+Proficient in Python and SQL: our AI stack uses Python & PyTorch and interfaces with Ruby on Rails (bonus if you know it, but not required) and we write a lot of SQL queries on top of Snowflake to pull data
+
+What we'll expect of you
+
+A collaborative and open outlook — we're all about lifting each other up and getting better every day
+A willingness to get deep into a problem even when it seems impossible. You'll always have support from the team
+Confidence operating with high agency. We'll work together to decide what's important, but we'd love for you to bring (and build!) your own ideas
+You'll come in willing to learn why things are the way they are, then suggest a better way
+You'll understand that there's no difference between ""my idea"" and ""their idea."" It's our ideas and we're all responsible for it
+You'll approach speed bumps and reviews through a ""how can the team level up?"" lens — let's all get better and learn, together
+
+What you can expect from us
+
+We're a fully distributed team spread between Pacific Time (California) and Central European Time (Stockholm) with lots of places in between. We'll see you most days in Slack, Google Meet, GitHub issues, and Notion. Sometimes in person in a place with a warm breeze
+We're a friendly bunch and are happy to pair, talk through, or otherwise assist any time
+Honest and timely feedback. We're all better when we can have candid conversations about what is and isn't working
+A willingness to listen to your ideas: how can the codebase, our product, or team be better?
+A respect for your time outside of work. We all work hard here, but we never forget to rest and have fun
+
+
+Benefits
+
+💰 Competitive salary, 401K
+
+📈 Stock options
+
+🏥 Full healthcare coverage (Medical, Dental, and Vision)
+
+🚀 Totally remote. Not hybrid. Remote. No return-to-office here
+
+🏠 WFH budget to make sure you have everything you need to do your best work
+
+✈️ Annual team-wide offsite to someplace cool
+
+🎓 Education credit (up to $500 per year)
+
+🧳 Unlimited PTO (minimum 4 weeks)",Mid-Senior level,Engineering,Non-profit Organizations and Primary and Secondary Education,Full-time,Machine Learning Engineer,Supernormal,"San Francisco, CA"
+23,"Attention: This role will be working remotely for a U.S. government health agency. PrimeAI, through it's partner AlphaAI, is the employer and contracted to fill this long-term FTE position.
+
+
+Company Description
+PrimeAI specializes in providing production machine learning at scale, deploying AI and machine learning engines seamlessly through cloud microservices architecture.
+
+Role Description
+This is a full-time remote role for a Data Scientist at PrimeAI. The Data Scientist will be responsible for tasks such as data analysis, statistical modeling, data visualization, and utilizing data analytics to drive insights and predictions for business optimization. The data scientist will conduct analysis that integrates secondary data sources into the primary data such as participant surveys, as well as advising on data collection risk and mitigation strategies. Statistical modeling for looking at correlation, predictions, etc.
+
+Qualifications
+Data Science, Statistics, and Data Analysis skills
+Data Visualization expertise
+
+Relevant skills and qualifications:
+
+Experience in machine learning and predictive analytics
+Proficiency in programming languages such as Python or R
+Strong problem-solving and analytical abilities
+Advanced degree in Data Science, Statistics, Computer Science, or related field",Entry level,Engineering and Information Technology,Data Infrastructure and Analytics,Full-time,Data Scientist,PrimeAI,United States
+24,"Description:
+
+Employer: Janssen Research & Development, LLC
+
+Job Title: Scientist, Data Science
+
+Job Code: A011.4028
+
+Job Location: Cambridge, MA
+
+Job Type: Full-Time
+
+Job Duties: Develop innovative solutions by leveraging a variety of different data sources across multiple disease areas. Closely partner with the Data Science Portfolio Management and Therapeutic Area teams to build a roadmap to deliver the projects from data feasibility to final presentation to senior cross-functional leaders. Conceive, develop, and implement analytics solutions to high-priority scientific problems. Lead and implement user cases by adapting and delivering Real-World Data (“RWD”) methodologies to mitigate observed and unobserved bias, and confounding in the execution of comparative effectiveness analyses, time-to-event analyses, external control arm studies, synthetic control arm studies, hybrid control arm studies, observational and prospective study designs, burden of disease estimation, cohort selection and characterization, incidence/prevalence studies, non-inferiority studies, the development of algorithms for risk stratification, and creating disease severity indices. Co-participant in cross-functional collaborations with external companies and internal scientific and data science teams. Shape internal/external collaborations and define the scope of research questions. Extract insight from large, observational patient databases (e.g., electronic health records, claims, registry, etc.) to provide health outcomes and drive drug development. Articulate highly technical methods and results to diverse audiences and partners to drive decision-making. Mentor junior team members in the application of appropriate methods for real-world data.
+
+Qualifications:
+
+Requirements: Employer will accept a Master's degree in Data Analytics, Machine Learning, Industrial Engineering, or related field and 1 year of experience in the job offered or in a Scientist, Data Science-related occupation.
+
+This job posting is anticipated to close on 9/20/2024. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.
+
+Employees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical, dental, vision, life insurance, short- and long-term disability, business accident insurance, and group legal insurance.
+
+Employees may be eligible to participate in the Company’s consolidated retirement plan (pension) and savings plan (401(k)).
+
+This position is eligible to participate in the Company’s long-term incentive program.
+
+Employees are eligible for the following time off benefits:
+
+Vacation – up to 120 hours per calendar year
+Sick time - up to 40 hours per calendar year; for employees who reside in the State of Washington – up to 56 hours per calendar year
+Holiday pay, including Floating Holidays – up to 13 days per calendar year
+Work, Personal and Family Time - up to 40 hours per calendar year
+
+Additional information can be found through the link below.
+
+For additional general information on Company benefits, please go to: - https://www.careers.jnj.com/employee-benefits
+
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com.]",Not Applicable,Engineering and Information Technology,Hospitals and Health Care,Full-time,"Scientist, Data Science",Johnson & Johnson,"Cambridge, MA"
+25,"Hi,
+
+Greetings from Conch Technologies Inc
+
+Position: Data Scientist/AI/ML Engineer
+
+Location: Phoenix, AZ ( Onsite from day 1 )
+
+Duration: 12+ Months Contract
+
+Experience: 3-6 Years
+
+ML/AI
+
+Azure
+
+DataBricks
+
+Python/Scala
+
+Excellent Communication Skills.
+
+With Regards,
+
+Teja Maripeti
+
+Desk: 901-317-3455
+
+Email: teja@conchtech.com
+
+Web: www.conchtech.com",Mid-Senior level,Engineering and Information Technology,IT Services and IT Consulting,Contract,Data Science ( Data Scientist ),"Conch Technologies, Inc","Phoenix, AZ"
+26,"Job Type
+
+Full-time
+
+Description
+
+TDI Technologies, Inc. is seeking candidates for a Jr. Data Scientist position. The position’s main responsibility will be to gather, format, and analyze information from Navy Hull, Mechanical, and Electrical (HM&E) systems. The position will require knowledge of machine learning methods and modeling development and training. Candidates should be comfortable working within an engineering team, designing new software solutions, and interfacing with customers.
+
+Principal Duties/Responsibilities
+
+Develop code and test modeling approaches for shipboard systems using real and simulated shipboard sensor and status data from control systems.
+Incorporate algorithms and model designs into software solutions and pipelines that solve our customer’s data analytics challenges.
+Prototype and demonstrate TDI Technologies’ data science capabilities to prospective customers.
+
+Requirements
+
+EDUCATION AND EXPERIENCE REQUIREMENTS:
+
+Bachelor’s Degree in a statistical, mathematical, computer science, or engineering discipline from an accredited college or university
+0-2 years of experience in an engineering, software development, or data science role
+
+Special Requirements
+
+Successful applicants must either have an active government security clearance or the ability to receive approval upon position acceptance.
+Must have a valid US passport OR the ability to obtain one upon position acceptance.
+
+Skills And Abilities
+
+Essential Skills:
+
+Software development in Python
+Working knowledge of machine learning and/or artificial intelligence frameworks such as scikit-learn, Pandas, and NumPy
+Knowledge or some experience with at least one of the following problem types: Time-series classification, regression analysis, optimization, clustering
+Some software development experience and operation within Linux and Windows based systems
+Knowledge of version control tools such as SubVersion or Git
+Strong technical writing skills and attention to detail for documentation
+Willingness to convey technical problems and solutions to a variety of team members
+
+Additional Preferred Skills
+
+Experience identifying trends and problems through data analysis.
+Supporting efforts to combine analysis from multiple data sources using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining independently.
+Experience supporting scalable process solutions prepared with big data, data driven Machine Learning tools such as TensorFlow, scikit-learn, Pandas, and NumPy, Natural Language Processing, and implementing data models and developing data sources to support organizational solutions.
+Working knowledge of fundamental concepts, practices, and procedures of naval shipboard Hull, Mechanical, and Electrical systems preferred.
+Knowledge or experience with development and deployment of Docker containers
+Knowledge or experience with orchestration using Kubernetes
+Knowledge or experience with DevOps tools and practices
+Knowledge or experience with Amazon Web Services (AWS)
+Knowledge or experience with rotating machinery, industrial automation and controls, or vibrations analysis
+
+Travel
+
+This position may require up to approximately 5-10% travel.
+
+Location: Philadelphia, PA. This position will allow for some remote work but will also require attendance to in-person meetings at the Philadelphia Navy Yard offices as well as at government development and lab facilities.
+
+Equal Employment Opportunity Policy
+
+TDI Technologies, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layout, recall, transfer, leaves of absence, compensation and training.",Entry level,Engineering and Information Technology,Defense and Space Manufacturing,Full-time,Jr. Data Scientist,"TDI Technologies, Inc","Philadelphia, PA"
+27,"Job Number: 68104
+
+Group: Magna Corporate
+
+Division: Magna Design and Engineering (USA)
+
+Job Type: Permanent/Regular
+
+Location: TROY
+
+Work Style: Hybrid
+
+About Us
+
+We see a future where everyone can live and move without limitations. That’s why we are developing technologies, systems and concepts that make vehicles safer and cleaner, while serving our communities, the planet and, above all, people.
+
+Forward. For all.
+
+Group Summary
+
+Magna is more than one of the world’s largest suppliers in the automotive space. We are a mobility technology company built to innovate, with a global, entrepreneurial-minded team. With 65+ years of expertise, our ecosystem of interconnected products combined with our complete vehicle expertise uniquely positions us to advance mobility in an expanded transportation landscape.
+
+About The Role
+
+The Data Scientist will be a key member of the Data Analytics Team. In this role, you will use your expertise to solve data related challenges in manufacturing operations. You have a strong sense of curiosity, along with an open mindset. Challenging the status quo, you continuously strive to learn and reach for new and innovative ideas. We encourage all individuals with an inventive mind who enjoy working with others to apply, we would love to hear from you.
+
+Your Responsibilities
+
+Support development of data analytics projects, apply data science, analytics, and computer vision to solve challenges in the manufacturing environment.
+Execute strategy and support applications of statistical analysis, Machine Learning, Computer vision, and AI tools to improve product development, manufacturing, predictive maintenance, and business processes.
+Support, plan, and execute the initial and wider deployment and adoption of Machine Learning and AI initiatives, PoC, and small-scale implementation.
+Conceptualize Machine Learning problems, apply appropriate theory, explore approaches, execute simulations, and implement with minimal supervision.
+Leverage internal and external expertise as required.
+Regularly interface with senior management to provide project updates.
+Occasionally responsible to hire, lead, supervise, and evaluate indirect hires, such as summer students.
+
+Who We Are Looking For
+
+Master’s Degree in Data Analytics, Mathematics, Statistics, Computer Science, or a closely related education with 2+ years of experience in industry with a focus on data analytics and/or computer vision.
+Alternate: Bachelor's degree in Mathematics, Statistics, Computer Science, or a closely related education with 5+ years of experience in industry with a focus on data analytics and/or computer vision.
+Experience with a wide variety of Machine Learning and AI techniques and algorithms
+Experience with computer vision
+Ability to learn, be self-motivated and driven to identify high value opportunities, gain information, develop understanding, and engage in implementation
+Willingness to ask questions and build networks/relationships with other departments/groups
+
+Your Preferred Qualifications
+
+Knowledge of C++
+Analytic tools and languages for statistical and machine learning models, especially Python
+Experience with agile project management and related tools such as Confluence and JIRA
+Experience with cloud-based tools by Microsoft, AWS, Databricks
+Deep Learning frameworks and tools such as TensorFlow
+Data management using PySpark and SQL
+DevOps – GIT, Docker, CI/CD
+
+What We Offer
+
+At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are.
+
+Site Benefits
+
+Comprehensive Medical, dental, and vision plans
+401 (k) plan with employer matching
+Profit sharing program
+Exciting internal development opportunities
+Cafe
+Parking for electric vehicles
+
+Awareness. Unity. Empowerment.
+
+At Magna, we believe a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you from sending applications via email to comply with GDPR requirements and your local Data Privacy Law.",Entry level,Engineering and Information Technology,Staffing and Recruiting,Full-time,Data Scientist,EV.Careers,"Troy, MI"
+28,"Position: Data Scientist
+
+Location: Santa Clarita, CA (Onsite)
+
+Experience: 10+ Years
+
+Work type: C2C only
+
+PETADATA is currently looking to hire for the position of Data Scientist for one of our clients.
+
+Roles & Responsibilities
+
+10+ years of experience, ideally within a Data Science role.
+Primary responsibility will be to develop and optimize custom ML/AI algorithms for new and existing applications.
+Broad knowledge of computer vision, NLP, time series forecasting, and anomaly detection.
+Knowledge of traditional ML algorithms such as regression, classification, and clustering algorithms.
+Understanding of state-of-the-art deep learning model architectures in the areas of computer vision (NLP would be a plus)
+Experience in implementing and optimizing object detection and instance/semantic segmentation models.
+Experience in model performance tracking using appropriate KPIs.
+
+Required Skills
+
+Strong fundamentals in Python programming.
+Good knowledge of OpenCV, Scikit-image, TensorFlow, Torch, Pillow, numpy, pandas, sci-kit-learn, etc.
+Understanding the SW development cycle, from requirements to testing, integration, and delivery.
+Familiarity with model shrinking techniques for deployment on edge devices with a limited footprint.
+Experience in setting up end-to-end pipelines for model deployment.
+Must have good communication and verbal skills
+
+Educational Qualification
+
+Bachelor's/ Master’s degree in Computer Science, Engineering, or a related field.
+
+We offer a professional work environment and are given every opportunity to grow in the Information technology world.
+
+Note
+
+Candidates are required to attend Phone/Video Call / In-person interviews and after Selection, the candidate (He/She) should go through all background checks on Education and Experience.
+
+Please email your resume to: anandinik@petadata.co
+
+After carefully reviewing your experience and skills one of our HR team members will contact you on the next steps.",Mid-Senior level,Engineering and Information Technology,"Technology, Information and Internet",Full-time,DATA SCIENTIST,PETADATA,"Santa Clarita, CA"
+29,"Founded in 2003, IT Concepts' core values - customer-centricity, teamwork, driven to deliver, innovation, and integrity - ensure we work together to be the best, realize objectives, and make a positive impact in our communities. We intentionally created and sustain our ITC culture that embraces change, experimentation, continuous learning, and improvement. We bring our design thinking problem solving approach that challenges assumptions, prioritizes curiosity, and invites complexity to deliver innovative, efficient, and effective solutions. As we continue to grow in the support of our government customers, we are looking for driven and innovative individuals to join our team. 
+IT Concepts Inc. (ITC) is seeking an experienced Data Scientist to join our team of diverse technical professionals to assist the Department of Veterans Affairs (VA) in analyzing clinical data and Informatics solutions delivered to the VA enterprise to support organizational learning and a High-Reliability Organization. 
+ The qualified applicant will become part of ITC's team supporting our Department of Veterans Affairs client. The candidate should be skilled in reporting and analytics tools and methods and communicate effectively with executive leadership. 
+Location{{:}} Remote position; able to work East Coast Hours (primarily)
+Responsibilities{{:}} 
+Develops and manages information to support strategic decision-making  
+Performs complex analyses and communicates findings to business owners and senior leaders 
+Conducts and facilitates (and educates and trains on) analyses, data research, data manipulation, risk assessment, solution development, and strategic alignment 
+Provides consulting and analytic services to leadership 
+Collaborates with cross-functional teams to develop data visualizations with meaningful insights  
+Analyzes and interprets data trends and patterns with performance objectives in mind 
+Defines data assets to develop performance measurements, key performance indicators and objectives, and key results 
+
+Requirements
+
+Master's degree plus 5 years of relevant experience
+Experience creating and analyzing clinical data and creating data visualizations that communicate clinical outcomes, improvements, and costs 
+Experience using statistical methods for the measurement of clinical outcomes 
+MUST HAVE{{:}} Experience with conducting causal inference with observational data and in quasi-experimental settings (e.g., differences-in-differences, instrumental variables, regression discontinuity designs, causal forests, meta-learners, doubly robust learning, etc.) 
+Hands-on experience with statistics and machine learning data mining, forecasting, simulation, and/or predictive modeling, preferably in the healthcare sector 
+Advanced experience handling complex data sets within large organizations, including data cleaning, transformation, and analysis 
+Excellent written and oral communication skills; must provide examples if chosen for an interview 
+Understanding of data ethics principles and how to avoid or reduce biases to build ethical and responsible data science/analytics products. 
+Strong programming skills in Python and/or R with a focus on data analysis, data science, or machine learning. 
+Advanced SQL development experience 
+Strong understanding of version control (i.e. git) 
+Preferred{{:}} 
+PhD in a quantitative field, such as Statistics, Epidemiology, Computer Science, Clinical Informatics or related disciplines.
+Experience in Agile, SAFe Agile 
+VA experience 
+Experience with VistA/CPRS a plus, and VA Corporate Data Warehouse (CDW) 
+Clearance Requirements{{:}} 
+Must be able to obtain and maintain a public trust clearance 
+
+Benefits
+
+The Company
+We believe in generating success collaboratively, enabling long-term mission success, and building trust for the next challenge. With you as our partner, let's solve challenges, think innovatively, and maximize impact. As a valued member of our team, you have the unique opportunity to work in a diverse range of technology and business career paths, all while supporting our nation and delivering innovative technology solutions. We are a close community of experts that pride ourselves on creating an environment defined by teamwork, dedication, and excellence.
+We hold three ISO certifications (27001{{:}}2013, 20000-1{{:}}2011, 9001{{:}}2015) and two CMMI ML 3 ratings (DEV and SVC).
+Industry Recognition
+Growth | Inc 5000's Fastest Growing Private Companies, DC Metro List Fastest Growing; Washington Business Journal{{:}} Fastest Growing Companies, Top Performing Small Technology Companies in Greater D.C.
+Culture | Northern Virginia Technology Council Tech 100 Honoree; Virginia Best Place to Work; Washington Business Journal{{:}} Best Places to Work, Corporate Diversity Index Winner - Mid-Size Companies, Companies Owned by People of Color; Department of Labor's HireVets for our work helping veterans transition; SECAF Award of Excellence finalist; Victory Military Friendly Brand; Virginia Values Veterans (V3); Cystic Fibrosis Foundation Corporate Breath Award
+Benefits
+We offer great benefits - Competitive Paid Time Off, Medical, Dental and Vision Insurance, Identity Theft Protection, Legal Resources Coverage, 401(k) with company matching with NO vesting period.  ITC Health benefits have a $0 premium for certain plans for eligible employees.
+We invest in our employees - Every employee is eligible for education reimbursement for certifications, degrees, or professional development.  Reimbursement amounts may fluctuate due to IRS limitations. We want you to grow as an expert and a leader and offer flexibility for you to take a course, complete a certification, or other professional growth and networking. We are committed to supporting your curiosity and sustaining a culture that prioritizes commitment to continuous professional development.
+We work hard, we play hard. ITC is committed to incorporating fun into every day. We dedicate funds for activities - virtual and in-person - e.g., we host happy hours, holiday events, fitness & wellness events, and annual celebrations. In alignment with our commitment to our communities, we also host and attend charity galas/events. We believe in appreciating your commitment and building a positive workspace for you to be creative, innovative, and happy.
+AAEO & VEVRAA
+ITC is an Affirmative Action/Equal Opportunity employer and a VEVRAA (Vietnam Era Veterans' Readjustment Assistance Act) Federal Contractor. As such, any personnel decisions (hire, promotion, job status, etc.) on applicants and/or employees are based on merit, qualifications, competence, and business needs, not on race, color, citizenship status, national origin, ancestry, sexual orientation, gender identity, age, religion, creed, physical or mental disability, pregnancy, childbirth or related medical condition, genetic information of the employee or family member of the employee, marital status, veteran status, political affiliation, or any other factor protected by federal, state or local law.
+ITC maintains a strong commitment to compliance with VEVRAA and other applicable federal, state, and local laws governing equal employment opportunity. We have developed comprehensive policies and procedures to ensure our hiring practices align with these requirements.
+As a part of our VEVRAA compliance efforts, ITC has established an affirmative action plan that outlines our commitment to the recruitment, hiring, and advancement of protected veterans. This plan is regularly reviewed and updated to ensure its effectiveness.
+We encourage protected veterans to self-identify during the application process. This information is strictly confidential and will only be used for reporting and compliance purposes as required by law. Providing this information is voluntary, and it will not impact your eligibility for employment.
+Our commitment to equal employment opportunity extends beyond legal compliance. We are dedicated to fostering an inclusive workplace where all employees, including protected veterans, are treated with dignity, respect, and fairness.
+How to Apply
+To apply to IT Concept Positions- Please click on the{{:}} ""Apply for this Job"" button at the bottom of this Job Description or the button at the top{{:}} ""Application.""  Please upload your resume and complete all the application steps. You must submit the application for IT Concepts to consider you for a position.  If you need alternative application methods, please email careers@useitc.com and request assistance.  
+Accommodations
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable Accommodations may be made to enable qualified individuals with disabilities to perform the essential functions. If you need to discuss reasonable accommodations, please email careers@useitc.com.  ",Mid-Senior level,Analyst,"Technology, Information and Internet",Full-time,Data Scientist (Healthcare),"IT Concepts, Inc","District of Columbia, United States"
+30,"This role is responsible for analysis & modeling to develop data-driven solutions. Will assist in the maintenance and improvement of existing systems, while also developing new solutions for future systems.
+
+Please note that this is an on-site position based in Riverview, FL, and is an immediate opening with a target fill date of this Fall 2024. Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment visa at this time.
+
+What does a typical day look like?
+Aid in the redesign and modeling of pricing algorithms
+Analyze pricing strategy, strategic portfolios, and risk by combining business acumen and analytics skills.
+Collaborates with the analytics team to improve existing models, and create new data driven solutions
+Aid in the development of LLM powered agents
+Use predictive modeling to optimize, generate revenue and drive efficiency
+Participates in innovation and R&D
+Assists in ETL and data migration processes
+Develop processes and tools to monitor and analyze model performance
+Analyze operational and financial variances to understand trends and implications
+Provides proactive analysis and subsequent recommendations identifying opportunities for improvement
+Create ad-hoc analyses that help drive business strategy and improve efficiency
+Gather, organize and make sense of disparate data sets
+Prepare high quality analysis, communications and presentations. Presents results in a clear and compelling way to stakeholders
+
+What are we seeking?
+Intermediate knowledge of Python
+Intermediate knowledge of SQL databases
+Self-driven and creative; Comfortable in a project-based environment
+Strong analytical thinking, problem-solving and data manipulation skills are required
+Experience applying data science in school projects or the professionally
+Minimum of 1-5 years of work or educational experience creating and using machine learning algorithms and statistics: regression, simulation, scenarios, modeling, decision trees, etc.
+Basic knowledge of decision trees
+Basic knowledge of neural networks
+Basic knowledge of Large Language Models
+Basic Excel knowledge
+C# is a plus, but not required",Associate,Analyst and Information Technology,"Transportation, Logistics, Supply Chain and Storage",Full-time,Junior Data Scientist,BlueGrace Logistics,"Riverview, FL"
+31,"Role:- Sr. Data Scientist
+
+Remote
+
+Responsibilities
+
+Design and develop Machine Learning & Statistical Models (using R & Python), and other data analysis techniques to collect, explore, and extract insights from structured and unstructured electronic health record data
+Build and advocate data-driven solutions that help customers improve clinical outcomes and processes
+Design and build scalable production-ready analytics solutions using a wide array of techniques and methodologies in the field of statistical modeling, machine learning, and other AI technologies to meet the needs of given client engagements
+
+Requirements
+
+Minimum of master’s degree in Computer Science, Statistics, Engineering, Physics, or other highly quantitative and technically oriented field and 3+ years of professional work experience as a quantitative analyst or applied analytics technical leader (healthcare experience preferred)
+Mastery of statistical software, scripting languages, and packages- preferred R, Python, SQL
+SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of other databases/date-sources.
+Solid understanding of supervised and unsupervised ML techniques.
+Solid understanding of data structures, software design and architecture.
+Ability to work independently and take initiative, but also a co-operative team player.
+Proficient at interpreting business questions and applying concepts to data
+Excellent Communication and presentation skills, proficiency in data interpretation
+
+PSRTEK is a reputed technology recruitment and IT staffing brand with a global footprint and an admired client base. As an ideas and innovation powerhouse with a culture of excellence, we bring remarkable expertise and deliver powerfully transformative results.",Mid-Senior level,Engineering and Information Technology,IT Services and IT Consulting,Full-time,Data Scientist,PSRTEK,"New York, NY"
+32,"Responsibilities
+
+Collect, process, and analyze large datasets to identify trends and insights.
+Develop predictive models and machine-learning algorithms.
+Prepare comprehensive reports and visualizations to communicate findings.
+Collaborate with cross-functional teams to define data requirements and drive data-driven decisions.
+Stay updated with the latest data science techniques and technologies.
+
+Qualifications
+
+Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, or a related field.
+Proven experience as a Data Scientist.
+Proficiency in programming languages such as Python or R.
+Strong knowledge of statistical methods and machine-learning techniques.
+Excellent problem-solving skills and attention to detail.
+Ability to work independently and manage multiple projects.",Entry level,Engineering and Information Technology,IT Services and IT Consulting,Full-time,Data Scientist,Digital Janet,United States
+33,"Hi,
+
+Hope you are doing well
+
+Number of position : 6
+
+Only Full Time no C2C and No Contract
+
+Full-time
+
+I, Shakib (i3 infotek) would like to share a job opportunity as Data Scientist based in Irving, TX (Onsite) location for a Full-time position.
+
+In case, if you are not comfortable with this location, please share your preference with contact details for further requirements ***
+
+Kindly find the JD below and let me know if you are available for the same.
+
+Data Scientist
+
+Job Location: Irving, TX (Onsite)
+
+Duration: Full-time
+
+Job Description
+
+Skill: Data Scientist with Generative AI Expertise
+
+Role & Responsibilities
+
+Design, develop, and implement advanced AI solutions to solve complex business problems across various domains.
+
+Collaborate with engineers, researchers, and product managers to understand business needs and translate them into technical specifications for AI models.
+
+Gather, clean, and prepare data for training and evaluating sophisticated AI models, ensuring data quality and ethical considerations.
+
+Explore and implement state-of-the-art AI techniques, including deep learning, natural language processing, and computer vision, tailored to specific needs.
+
+Evaluate and compare different AI model architectures and hyperparameters to optimize performance, address potential biases, and ensure responsible development.
+
+Develop monitoring and evaluation frameworks to track AI model performance and ensure alignment with business goals.
+
+Communicate complex AI concepts and findings to technical and non-technical audiences through data visualization, storytelling, and presentations.
+
+Skills
+
+Technical:
+
+Programming languages: Python (proficient) with major Client libraries.
+
+Experience with opensource Gen AI LLMs e.g., Llama and Dolly.
+
+Machine learning, NLP & deep learning: Strong understanding of supervised and unsupervised learning, neural networks, transformers.
+
+Generative AI techniques: Experience with GANs, text-to-image generation, text generation models.
+
+Data wrangling & manipulation: SQL, data cleaning, feature engineering.
+
+Hyperscalers: AWS, Azure, or GCP experience a plus
+
+Non-technical
+
+Problem-solving & critical thinking: Ability to identify and solve complex problems with data-driven solutions.
+
+Communication & collaboration: Effectively communicate technical concepts to diverse audiences, work with geographically distributed teams.
+
+Innovation & creativity.
+
+Attention to detail & accuracy.
+
+Self-motivation & continuous learning.
+
+Please reply me with your updated resume and required details:
+
+Full Name
+
+Best number to reach you:
+
+Work Authorization/Visa Status
+
+Current Location:
+
+Expected Compensation
+
+Best time to call you:
+
+Waiting for your earliest response
+
+Sincerely,
+
+Mohd Shakib
+
+Sr. Technical Recruiter Direct: 781-896-2153
+
+Address: 1500 District Avenue, Ste. 4135, Burlington, MA 01803",Mid-Senior level,Information Technology,Information Technology & Services,Contract,Data Scientist (AI/ML),Syntricate Technologies,"Irving, TX"
+34,"About the Company:
+Birlasoft combines the power of domain, enterprise, and digital technologies to reimagine business processes for customers and their ecosystem. Its consultative and design thinking approach makes societies more productive by helping customers run businesses. As part of the multibillion-dollar diversified CK Birla Group, Birlasoft with its 12,500+ professionals, is committed to continuing the Group’s 162-year heritage of building sustainable communities.
+
+About the Role:
+The ideal candidate is always looking for ways to improve a product or service to make it better, faster, and more user-friendly. You are responsible for producing technology solutions from concept to delivery that satisfy customer needs in alignment with our overall strategy.
+
+Machine Learning/Artificial Engineer
+New Jersey
+
+Responsibilities:
+An experienced professional with at least six years of expertise in Python, scikit-learn, and XGBoost.
+Skilled in deep learning modeling, with a preference for PyTorch (although TensorFlow is also acceptable).
+Well-versed in natural language processing (NLP).
+Outstanding communication abilities, capable of engaging effectively with business stakeholders.
+
+Qualifications:
+Degree in Computer Science Engineering.
+
+Required Skills:
+Knowledge of graph neural networks (GNN, GCN).
+Background in insurance or risk modeling.
+Familiarity with genAI/LLM.
+Experience with Streamlit or other UI frameworks.
+Competence in MLOps, deployment, and full-stack development.",Mid-Senior level,Information Technology and Manufacturing,"Medical Equipment Manufacturing, Manufacturing, and IT Services and IT Consulting",Full-time,Machine Learning/Artificial Engineer,Birlasoft,"New Jersey, United States"
+35,"Job Title: Data Scientist 2 (DATAS2)
+
+Company: SouthStar Energy LLC (A Southern Company)
+
+Work Location: Hybrid (based in Atlanta, Georgia)
+
+Expected Duration of Assignment:1 year contract, reviewed annually
+
+Estimated Start Date: September 24, 2024
+
+Job Description
+
+Job Summary:
+
+We are seeking a talented Data Scientist to support AI exploration and implementation to enhance our business operations. The ideal candidate will be responsible for identifying potential use cases for AI and leading efforts to build solutions for these use cases by leveraging machine learning algorithms and AI tools. As part of our leading-edge advanced analytics team, you will help drive analytics across the organization to improve customer experience and optimize operations. This is an individual contributor role, providing autonomy in technical and analytical choices, including determining the appropriate modeling techniques and making design decisions.
+
+Key Responsibilities:
+
+Identify and evaluate potential AI use cases to enhance business operations
+Lead the development and implementation of AI solutions for identified use cases
+Utilize machine learning algorithms and AI tools to build and deploy models
+Collaborate with cross-functional teams to integrate AI solutions into business processes
+Partners with IT to effectively migrate analytical models from prototype to production
+Conduct data analysis to uncover insights and support decision-making
+Ensure data quality and integrity throughout the AI solution development process
+Present findings and recommendations to stakeholders in a clear and concise manner
+Stay up-to-date with the latest advancements in AI and machine learning technologies
+Self-starter and a multi-tasker who can work independently under tight timelines
+
+Qualifications:
+
+Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Mathematics, or a related field
+Proven experience in data science, machine learning, and AI
+Strong programming skills in languages such as Python, R, or similar. Python is highly preferred
+Experience with machine learning frameworks and tools (e.g., Azure, Databricks, Google Cloud)
+Experience with data visualization tools (e.g., Tableau, Power BI)
+Experience with big data technologies (e.g., Hadoop, Spark) is a plus
+Excellent analytical and problem-solving skills
+Ability to work independently and make autonomous technical and analytical decisions
+Strong communication skills to effectively convey complex technical concepts to non-technical stakeholders
+
+Why Join Us:
+
+Be part of a cutting-edge advanced analytics team
+Opportunity to lead AI initiatives and make a significant impact on business operations
+Collaborative and innovative work environment
+
+This is an exciting opportunity to join SouthStar Energy LLC, a subsidiary of Southern Company, and contribute to impactful projects.
+
+Powered by JazzHR
+
+eqVW5FKBxf",Mid-Senior level,Engineering and Information Technology,Internet Publishing,Contract,Data Scientist 2,BLOC Resources,"Atlanta, GA"
+36,"About Us
+
+We're on a mission to transform spoken communication for individuals, teams and organizations of any size. Meetings may be our most information rich channel for work, but suffer from a lack of structure and documentation. At Supernormal, we're solving this problem with focus, design and craft.
+
+We've been working on this since 2019 and have customers like Snap, Salesforce, Replay, Gitcoin, Pinterest and thousands more on this journey with us. Today, we are growing rapidly and are excited for new teammates to join who are the best at what they do. We're passionately building a team that is as diverse and creative as the millions of people we serve worldwide.
+
+Supernormal is a remote first company and does not require co-location. We have annual team retreats and gather several times a quarter.
+
+About The Role
+
+Machine learning engineers at Supernormal build the AI that superpowers the core product experience for people's meetings including transcription, note generation, and task automation. The AI team builds reliable and secure services that use the most advanced AI models in the market to generate millions of high-quality meeting notes to a rapidly growing customer base. Our work revolves heavily around software engineering, too - we are looking for people with a drive to roll up their sleeves and get new models and features out to users as quickly as possible.
+
+What You'll Work On
+
+As an ML engineer on Supernormal's AI team, you will be responsible for the end-to-end development of our AI solutions for meeting notes, question answering, and task completion. Your work will encompass LLM API calls, custom model training and deployment, speech recognition, quality evaluation and fixes, retrieval augmented generation, and much more. You'll play a key role in optimizing for cost, latency, and quality. Some of the projects you'll work on include:
+
+Prompt engineering using state-of-the-art techniques to improve the core meeting assistant scenarios
+Building and shipping custom machine learning models to augment the AI stack, including improving transcript quality, reducing tokens sent to APIs, removing defects in LLM output, and extracting semi-structured data
+Training and deploying custom large language models from open source using state-of-the-art techniques (LoRA, RLHF, instruction-tuning, etc) and fine tuning foundation models for a variety of business purposes
+Developing new product experiences using NLP & LLMs that get better based on user feedback & iteration while collaborating with product engineers & design team
+Defining and improving business & product metrics to optimize the quality and cost of AI usage
+Improving LLM-powered search and question answering (using RAG) over sets of meetings
+Advocating for, and building, new and better ways of doing things. You'll leave everything you touch just a bit better than you found it
+
+
+Requirements
+
+What you will bring
+
+We are a fast-moving startup building zero-to-one products on top of large language models. The ideal candidate has a strong machine learning background and a hacker mindset, someone who can both spin up Jupyter Notebooks to train models and also excel at writing solid, fast production code for deployment.
+
+AI/ML Experience: Demonstrated proficiency in AI/ML with a track record of at least 3-5 years experience building machine learning systems, up to speed on the latest in NLP & LLMs, and proficient in data curation, modeling, and training models. We require skills for shipping and maintaining ML in production settings
+A Solid Educational Foundation: Bachelor's degree in Computer Science, Engineering, AI, Mathematics, or related field; Master's degree or PhD a plus
+Versatile Software Engineering Skills: A solid engineering background with a robust foundation in software engineering principles. You have written code for and supported production engineering systems.
+Proficient in Python and SQL: our AI stack uses Python & PyTorch and interfaces with Ruby on Rails (bonus if you know it, but not required) and we write a lot of SQL queries on top of Snowflake to pull data
+
+What we'll expect of you
+
+A collaborative and open outlook — we're all about lifting each other up and getting better every day
+A willingness to get deep into a problem even when it seems impossible. You'll always have support from the team
+Confidence operating with high agency. We'll work together to decide what's important, but we'd love for you to bring (and build!) your own ideas
+You'll come in willing to learn why things are the way they are, then suggest a better way
+You'll understand that there's no difference between ""my idea"" and ""their idea."" It's our ideas and we're all responsible for it
+You'll approach speed bumps and reviews through a ""how can the team level up?"" lens — let's all get better and learn, together
+
+What you can expect from us
+
+We're a fully distributed team spread between Pacific Time (California) and Central European Time (Stockholm) with lots of places in between. We'll see you most days in Slack, Google Meet, GitHub issues, and Notion. Sometimes in person in a place with a warm breeze
+We're a friendly bunch and are happy to pair, talk through, or otherwise assist any time
+Honest and timely feedback. We're all better when we can have candid conversations about what is and isn't working
+A willingness to listen to your ideas: how can the codebase, our product, or team be better?
+A respect for your time outside of work. We all work hard here, but we never forget to rest and have fun
+
+
+Benefits
+
+💰 Competitive salary, 401K
+
+📈 Stock options
+
+🏥 Full healthcare coverage (Medical, Dental, and Vision)
+
+🚀 Totally remote. Not hybrid. Remote. No return-to-office here
+
+🏠 WFH budget to make sure you have everything you need to do your best work
+
+✈️ Annual team-wide offsite to someplace cool
+
+🎓 Education credit (up to $500 per year)
+
+🧳 Unlimited PTO (minimum 4 weeks)",Mid-Senior level,Engineering,Non-profit Organizations and Primary and Secondary Education,Full-time,Machine Learning Engineer,Supernormal,"San Francisco, CA"
+37,"Attention: This role will be working remotely for a U.S. government health agency. PrimeAI, through it's partner AlphaAI, is the employer and contracted to fill this long-term FTE position.
+
+
+Company Description
+PrimeAI specializes in providing production machine learning at scale, deploying AI and machine learning engines seamlessly through cloud microservices architecture.
+
+Role Description
+This is a full-time remote role for a Data Scientist at PrimeAI. The Data Scientist will be responsible for tasks such as data analysis, statistical modeling, data visualization, and utilizing data analytics to drive insights and predictions for business optimization. The data scientist will conduct analysis that integrates secondary data sources into the primary data such as participant surveys, as well as advising on data collection risk and mitigation strategies. Statistical modeling for looking at correlation, predictions, etc.
+
+Qualifications
+Data Science, Statistics, and Data Analysis skills
+Data Visualization expertise
+
+Relevant skills and qualifications:
+
+Experience in machine learning and predictive analytics
+Proficiency in programming languages such as Python or R
+Strong problem-solving and analytical abilities
+Advanced degree in Data Science, Statistics, Computer Science, or related field",Entry level,Engineering and Information Technology,Data Infrastructure and Analytics,Full-time,Data Scientist,PrimeAI,United States
+38,"Description:
+
+Employer: Janssen Research & Development, LLC
+
+Job Title: Scientist, Data Science
+
+Job Code: A011.4028
+
+Job Location: Cambridge, MA
+
+Job Type: Full-Time
+
+Job Duties: Develop innovative solutions by leveraging a variety of different data sources across multiple disease areas. Closely partner with the Data Science Portfolio Management and Therapeutic Area teams to build a roadmap to deliver the projects from data feasibility to final presentation to senior cross-functional leaders. Conceive, develop, and implement analytics solutions to high-priority scientific problems. Lead and implement user cases by adapting and delivering Real-World Data (“RWD”) methodologies to mitigate observed and unobserved bias, and confounding in the execution of comparative effectiveness analyses, time-to-event analyses, external control arm studies, synthetic control arm studies, hybrid control arm studies, observational and prospective study designs, burden of disease estimation, cohort selection and characterization, incidence/prevalence studies, non-inferiority studies, the development of algorithms for risk stratification, and creating disease severity indices. Co-participant in cross-functional collaborations with external companies and internal scientific and data science teams. Shape internal/external collaborations and define the scope of research questions. Extract insight from large, observational patient databases (e.g., electronic health records, claims, registry, etc.) to provide health outcomes and drive drug development. Articulate highly technical methods and results to diverse audiences and partners to drive decision-making. Mentor junior team members in the application of appropriate methods for real-world data.
+
+Qualifications:
+
+Requirements: Employer will accept a Master's degree in Data Analytics, Machine Learning, Industrial Engineering, or related field and 1 year of experience in the job offered or in a Scientist, Data Science-related occupation.
+
+This job posting is anticipated to close on 9/20/2024. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.
+
+Employees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical, dental, vision, life insurance, short- and long-term disability, business accident insurance, and group legal insurance.
+
+Employees may be eligible to participate in the Company’s consolidated retirement plan (pension) and savings plan (401(k)).
+
+This position is eligible to participate in the Company’s long-term incentive program.
+
+Employees are eligible for the following time off benefits:
+
+Vacation – up to 120 hours per calendar year
+Sick time - up to 40 hours per calendar year; for employees who reside in the State of Washington – up to 56 hours per calendar year
+Holiday pay, including Floating Holidays – up to 13 days per calendar year
+Work, Personal and Family Time - up to 40 hours per calendar year
+
+Additional information can be found through the link below.
+
+For additional general information on Company benefits, please go to: - https://www.careers.jnj.com/employee-benefits
+
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com.]",Not Applicable,Engineering and Information Technology,Hospitals and Health Care,Full-time,"Scientist, Data Science",Johnson & Johnson,"Cambridge, MA"
+39,"Hi,
+
+Greetings from Conch Technologies Inc
+
+Position: Data Scientist/AI/ML Engineer
+
+Location: Phoenix, AZ ( Onsite from day 1 )
+
+Duration: 12+ Months Contract
+
+Experience: 3-6 Years
+
+ML/AI
+
+Azure
+
+DataBricks
+
+Python/Scala
+
+Excellent Communication Skills.
+
+With Regards,
+
+Teja Maripeti
+
+Desk: 901-317-3455
+
+Email: teja@conchtech.com
+
+Web: www.conchtech.com",Mid-Senior level,Engineering and Information Technology,IT Services and IT Consulting,Contract,Data Science ( Data Scientist ),"Conch Technologies, Inc","Phoenix, AZ"
+40,"Job Type
+
+Full-time
+
+Description
+
+TDI Technologies, Inc. is seeking candidates for a Jr. Data Scientist position. The position’s main responsibility will be to gather, format, and analyze information from Navy Hull, Mechanical, and Electrical (HM&E) systems. The position will require knowledge of machine learning methods and modeling development and training. Candidates should be comfortable working within an engineering team, designing new software solutions, and interfacing with customers.
+
+Principal Duties/Responsibilities
+
+Develop code and test modeling approaches for shipboard systems using real and simulated shipboard sensor and status data from control systems.
+Incorporate algorithms and model designs into software solutions and pipelines that solve our customer’s data analytics challenges.
+Prototype and demonstrate TDI Technologies’ data science capabilities to prospective customers.
+
+Requirements
+
+EDUCATION AND EXPERIENCE REQUIREMENTS:
+
+Bachelor’s Degree in a statistical, mathematical, computer science, or engineering discipline from an accredited college or university
+0-2 years of experience in an engineering, software development, or data science role
+
+Special Requirements
+
+Successful applicants must either have an active government security clearance or the ability to receive approval upon position acceptance.
+Must have a valid US passport OR the ability to obtain one upon position acceptance.
+
+Skills And Abilities
+
+Essential Skills:
+
+Software development in Python
+Working knowledge of machine learning and/or artificial intelligence frameworks such as scikit-learn, Pandas, and NumPy
+Knowledge or some experience with at least one of the following problem types: Time-series classification, regression analysis, optimization, clustering
+Some software development experience and operation within Linux and Windows based systems
+Knowledge of version control tools such as SubVersion or Git
+Strong technical writing skills and attention to detail for documentation
+Willingness to convey technical problems and solutions to a variety of team members
+
+Additional Preferred Skills
+
+Experience identifying trends and problems through data analysis.
+Supporting efforts to combine analysis from multiple data sources using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining independently.
+Experience supporting scalable process solutions prepared with big data, data driven Machine Learning tools such as TensorFlow, scikit-learn, Pandas, and NumPy, Natural Language Processing, and implementing data models and developing data sources to support organizational solutions.
+Working knowledge of fundamental concepts, practices, and procedures of naval shipboard Hull, Mechanical, and Electrical systems preferred.
+Knowledge or experience with development and deployment of Docker containers
+Knowledge or experience with orchestration using Kubernetes
+Knowledge or experience with DevOps tools and practices
+Knowledge or experience with Amazon Web Services (AWS)
+Knowledge or experience with rotating machinery, industrial automation and controls, or vibrations analysis
+
+Travel
+
+This position may require up to approximately 5-10% travel.
+
+Location: Philadelphia, PA. This position will allow for some remote work but will also require attendance to in-person meetings at the Philadelphia Navy Yard offices as well as at government development and lab facilities.
+
+Equal Employment Opportunity Policy
+
+TDI Technologies, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layout, recall, transfer, leaves of absence, compensation and training.",Entry level,Engineering and Information Technology,Defense and Space Manufacturing,Full-time,Jr. Data Scientist,"TDI Technologies, Inc","Philadelphia, PA"
+41,"Job Number: 68104
+
+Group: Magna Corporate
+
+Division: Magna Design and Engineering (USA)
+
+Job Type: Permanent/Regular
+
+Location: TROY
+
+Work Style: Hybrid
+
+About Us
+
+We see a future where everyone can live and move without limitations. That’s why we are developing technologies, systems and concepts that make vehicles safer and cleaner, while serving our communities, the planet and, above all, people.
+
+Forward. For all.
+
+Group Summary
+
+Magna is more than one of the world’s largest suppliers in the automotive space. We are a mobility technology company built to innovate, with a global, entrepreneurial-minded team. With 65+ years of expertise, our ecosystem of interconnected products combined with our complete vehicle expertise uniquely positions us to advance mobility in an expanded transportation landscape.
+
+About The Role
+
+The Data Scientist will be a key member of the Data Analytics Team. In this role, you will use your expertise to solve data related challenges in manufacturing operations. You have a strong sense of curiosity, along with an open mindset. Challenging the status quo, you continuously strive to learn and reach for new and innovative ideas. We encourage all individuals with an inventive mind who enjoy working with others to apply, we would love to hear from you.
+
+Your Responsibilities
+
+Support development of data analytics projects, apply data science, analytics, and computer vision to solve challenges in the manufacturing environment.
+Execute strategy and support applications of statistical analysis, Machine Learning, Computer vision, and AI tools to improve product development, manufacturing, predictive maintenance, and business processes.
+Support, plan, and execute the initial and wider deployment and adoption of Machine Learning and AI initiatives, PoC, and small-scale implementation.
+Conceptualize Machine Learning problems, apply appropriate theory, explore approaches, execute simulations, and implement with minimal supervision.
+Leverage internal and external expertise as required.
+Regularly interface with senior management to provide project updates.
+Occasionally responsible to hire, lead, supervise, and evaluate indirect hires, such as summer students.
+
+Who We Are Looking For
+
+Master’s Degree in Data Analytics, Mathematics, Statistics, Computer Science, or a closely related education with 2+ years of experience in industry with a focus on data analytics and/or computer vision.
+Alternate: Bachelor's degree in Mathematics, Statistics, Computer Science, or a closely related education with 5+ years of experience in industry with a focus on data analytics and/or computer vision.
+Experience with a wide variety of Machine Learning and AI techniques and algorithms
+Experience with computer vision
+Ability to learn, be self-motivated and driven to identify high value opportunities, gain information, develop understanding, and engage in implementation
+Willingness to ask questions and build networks/relationships with other departments/groups
+
+Your Preferred Qualifications
+
+Knowledge of C++
+Analytic tools and languages for statistical and machine learning models, especially Python
+Experience with agile project management and related tools such as Confluence and JIRA
+Experience with cloud-based tools by Microsoft, AWS, Databricks
+Deep Learning frameworks and tools such as TensorFlow
+Data management using PySpark and SQL
+DevOps – GIT, Docker, CI/CD
+
+What We Offer
+
+At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are.
+
+Site Benefits
+
+Comprehensive Medical, dental, and vision plans
+401 (k) plan with employer matching
+Profit sharing program
+Exciting internal development opportunities
+Cafe
+Parking for electric vehicles
+
+Awareness. Unity. Empowerment.
+
+At Magna, we believe a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you from sending applications via email to comply with GDPR requirements and your local Data Privacy Law.",Entry level,Engineering and Information Technology,Staffing and Recruiting,Full-time,Data Scientist,EV.Careers,"Troy, MI"
