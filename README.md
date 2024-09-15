@@ -1,5 +1,5 @@
 # linkedin_scraper
-# Job Analysis Project
+# Data Science Role Analysis Project
 
 ## Project Overview
 
