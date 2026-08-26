@@ -1,5 +1,5 @@
 # linkedin_scraper
-# Data Science Role Analysis Project
+# Graduate Data Analytics Club Helper Tool
 
 ## Project Overview
 
